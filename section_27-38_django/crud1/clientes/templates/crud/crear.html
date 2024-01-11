@@ -1,0 +1,17 @@
+{% extends 'generales/base.html' %}
+
+{% block titulo %} Página Nuevo Cliente {% endblock titulo %}
+
+{% block contenido %}
+
+<div class="card">
+    <div class="card-header">
+        Crear nuevo cliente
+    </div>
+    <div class="card-body">
+        <h4 class="card-title">Cliente</h4>
+        {% include 'crud/formulario.html'%}
+    </div>
+</div>
+
+{% endblock contenido %}

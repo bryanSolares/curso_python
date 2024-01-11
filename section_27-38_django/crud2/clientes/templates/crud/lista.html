@@ -1,0 +1,52 @@
+{% extends 'generales/base.html' %}
+
+{% block titulo %} Lista de Clientes {% endblock titulo %}
+
+{% block contenido %}
+
+<div class="card">
+    <div class="card-header">
+        Lista de Clientes
+    </div>
+    <div class="card-body">
+        <a href="{% url 'crear_editar_cliente' id=0 %}" role="button" class="btn btn-success">Nuevo Cliente</a>
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Código</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Apellido Paterno</th>
+                <th scope="col">Apellido Materno</th>
+                <th scope="col">Lenguaje</th>
+                <th scope="col">Sistema Operativo</th>
+                <th scope="col">Foto</th>
+                <th scope="col">Acciones</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for cliente in data%}
+            <tr>
+                <td>{{cliente.id}}</td>
+                <td>{{cliente.nombre}}</td>
+                <td>{{cliente.apellido_paterno}}</td>
+                <td>{{cliente.apellido_materno}}</td>
+                <td>{{cliente.lenguaje}}</td>
+                <td>{{cliente.sistema_operativo}}</td>
+                <td>
+                    <img src="{{cliente.foto.url}}" height="60"/>
+                </td>
+                <td>
+                    <a href="{% url 'crear_editar_cliente' id=cliente.id %}" role="button" class="btn btn-info">Editar</a>
+                    <a href="{% url 'eliminar_cliente' id=cliente.id %}" role="button" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="card-footer">
+
+    </div>
+</div>
+
+{% endblock contenido %}

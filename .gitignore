@@ -1,0 +1,10 @@
+# .gitignore
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+pyvenv.cfg
+
+# Archivos generados por entornos virtuales
+pip-selfcheck.json
