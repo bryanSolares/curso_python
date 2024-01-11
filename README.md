@@ -1,3 +1,6 @@
+# [Curso Python Udemy](https://www.udemy.com/course/mega-curso-de-python-mas-de-63-horas-y-605-videos-en-espanol/)
+
+
 # Convenciones
 * Python utiliza snake_case para la conveción de nombres [Referencia freeCodeCamp](https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/)
 

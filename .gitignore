@@ -5,6 +5,7 @@ venv/
 env/
 .venv/
 pyvenv.cfg
+section_27-38_django/development/*
 
 # Archivos generados por entornos virtuales
 pip-selfcheck.json
