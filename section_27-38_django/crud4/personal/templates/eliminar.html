@@ -1,0 +1,16 @@
+{% extends 'blank.html' %}
+{% load static %}
+
+{%block titulo%} Eliminar Persona {%endblock titulo%}
+
+{%block content%}
+
+<h1>Eliminar</h1>
+<form method="POST" id="fr_eliminar">
+    {% csrf_token %}
+    <p>Desear Eliminar</p>
+    <button type="submit" class="btn btn-danger">Confirmar</button>
+    <a name="" id="btn_eliminar" class="btn btn-primary" href="{% url 'personal_app:lista_personal' %}">Cancelar</a>
+</form>
+
+{%endblock content%}

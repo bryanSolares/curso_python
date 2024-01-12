@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "clientes",
+    "personal",
     "crispy_forms",
     "crispy_bootstrap4"
 ]
@@ -77,7 +78,7 @@ WSGI_APPLICATION = 'crud4.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'django',
+        'NAME': 'django_2',
         'USER': 'administrador',
         'PASSWORD': '123456',
         'HOST': 'localhost',

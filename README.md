@@ -20,8 +20,8 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
 * Profundizar sobre herramientas:
   1. [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)
   2. [Django](https://www.djangoproject.com/)
-  3. 
-
+  3. [Pillow](https://pillow.readthedocs.io/en/stable/)
+* Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 
 
 # Anotaciones Importantes
@@ -156,6 +156,26 @@ python manage.py createsuperuser
 ````
 
 # Inconvenientes encontrados
-* En video 293 solamente está utiliza una etiqueta 'a' para salir de la sesión, sin embargo esto no fue funcional
+* En video **293** solamente está utiliza una etiqueta 'a' para salir de la sesión, sin embargo esto no fue funcional
 se tuvo que hacer un formulario dentro del botón para poder cerrar la sesión. Según información Logout solamente opera con
 método POST, al utilizar 'a' genera un petición de tipo GET
+* En video **301 - 303** no termina de aclarar el inconveniente con guardar un registro sin foto, sin embargo con investigación se tiene lo siguiente:
+````
+# En lugar de validar la URL de la foto, se valida el objeto en sí
+{% if persona.foto %}
+    <td>
+        <img src="{{persona.foto.url}}" height="60"/>
+    </td>
+{% else %}
+<td>N/A</td>
+{% endif %}
+````
+* Relacionado al punto anterior hay un inconveniente al eliminar un registro sin foto, la solución al código sería (instructor no soluciona problema):
+````
+#models.py
+    def delete(self, using=None, keep_parents=False):
+        if self.foto:
+            self.foto.storage.delete(self.foto.name)
+
+        super().delete(using=using, keep_parents=keep_parents)
+````
