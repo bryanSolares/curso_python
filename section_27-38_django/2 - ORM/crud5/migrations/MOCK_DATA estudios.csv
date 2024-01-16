@@ -1,0 +1,1001 @@
+id,status,created_date,updated_date,estudios,user
+1,true,12/2/2023,12/17/2023,University of Applied Sciences Basel (FHBB ),1
+2,true,5/17/2023,11/4/2023,University of Maiduguri,1
+3,false,2/13/2023,9/28/2023,Luther College,1
+4,true,4/30/2023,8/27/2023,"Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft",1
+5,false,12/4/2023,3/15/2023,Instituto Tecnologico de Minatitlan,1
+6,true,8/3/2023,7/18/2023,Taiz University,1
+7,true,11/7/2023,11/13/2023,Tilak Maharashtra Vidyapeeth,1
+8,false,11/28/2023,6/6/2023,Sungshin Women's University,1
+9,true,2/28/2023,10/2/2023,Université de Gabès,1
+10,true,7/10/2023,8/25/2023,Kashan University,1
+11,false,2/23/2023,9/29/2023,Institut Supérieure d'Electronique du Nord,1
+12,false,1/25/2023,12/27/2023,School of Education Pisa,1
+13,true,10/13/2023,9/17/2023,Sur University College,1
+14,true,3/23/2023,2/26/2023,Foothill-De Anza Community College District,1
+15,false,12/13/2023,1/16/2023,Glasgow Caledonian University,1
+16,false,5/30/2023,2/9/2023,Universidad Nacional de Entre Ríos,1
+17,true,3/20/2023,5/25/2023,Framingham State College,1
+18,true,2/16/2023,4/5/2023,Universidad de Los Lagos,1
+19,false,9/13/2023,6/26/2023,Taganrog State University of Radioengineering,1
+20,false,1/7/2024,9/19/2023,Nagoya University of Commerce and Business Administration,1
+21,false,12/29/2023,7/6/2023,Universidad de Belgrano,1
+22,true,8/20/2023,10/14/2023,"Johns Hopkins University, SAIS Bologna Center",1
+23,true,1/31/2023,2/9/2023,Universidad Autónoma de Guadalajara,1
+24,false,6/28/2023,11/30/2023,Institut Catholique de Toulouse,1
+25,false,6/1/2023,6/16/2023,"University of Education, Winneba",1
+26,true,6/12/2023,10/25/2023,Libya Open University,1
+27,false,6/17/2023,12/22/2023,Hanoi Open University,1
+28,true,11/1/2023,1/7/2024,Bethlehem University,1
+29,false,12/12/2023,12/20/2023,Ege University,1
+30,false,3/6/2023,4/19/2023,Indian Law Institue,1
+31,true,11/21/2023,10/21/2023,Universidad Dr. Rafael Belloso Chacín,1
+32,true,8/31/2023,8/28/2023,Czech University of Agriculture Prague,1
+33,true,2/7/2023,1/22/2023,St. Petersburg StateMechnikov  Medical Academy,1
+34,false,11/26/2023,11/23/2023,Sevastopol National Technical University,1
+35,false,10/19/2023,5/21/2023,University of Bunkyo,1
+36,true,9/29/2023,5/5/2023,Cyprus International University,1
+37,true,2/23/2023,11/21/2023,Furman University,1
+38,false,9/29/2023,4/13/2023,Nagasaki Prefectural University,1
+39,true,1/3/2024,7/2/2023,Alahgaff University,1
+40,true,12/28/2023,1/26/2023,University of Hartford,1
+41,false,10/29/2023,9/18/2023,Knightsbridge University,1
+42,false,1/23/2023,6/25/2023,Universidade Federal de Roraima,1
+43,false,9/2/2023,9/23/2023,Sheridan College,1
+44,true,2/22/2023,12/12/2023,Heartland Baptist Bible College,1
+45,true,10/21/2023,5/5/2023,Hiroshima University of Economics,1
+46,false,7/19/2023,3/2/2023,Université d'Evry Val d'Essonne,1
+47,false,12/3/2023,7/14/2023,Okayama Shoka University,1
+48,true,7/7/2023,7/14/2023,Reformed Church University,1
+49,true,6/5/2023,10/24/2023,"Irish University Business School, Cebu",1
+50,true,8/11/2023,1/30/2023,"University of Wales, Aberystwyth",1
+51,true,7/31/2023,5/14/2023,Kunsan National University,1
+52,true,1/1/2024,9/16/2023,Zhongnan University of Finance and Economics,1
+53,false,2/13/2023,7/21/2023,Vitebsk State University,1
+54,true,12/6/2023,1/1/2024,DEI Bachelor & Master Degrees,1
+55,false,8/26/2023,12/8/2023,European Institute of Education,1
+56,false,3/22/2023,2/19/2023,Pontifícia Universidade Católica do Rio de Janeiro,1
+57,false,12/17/2023,9/4/2023,Amman University,1
+58,true,5/27/2023,2/23/2023,Université Montesquieu (Bordeaux IV),1
+59,true,10/14/2023,8/3/2023,University of Lucerne,1
+60,true,10/17/2023,1/4/2024,University of Italian Studies for Foreigners of Perugia,1
+61,true,8/7/2023,8/20/2023,Juntendo University,1
+62,false,12/30/2023,6/10/2023,God's Bible School and College,1
+63,false,3/26/2023,6/18/2023,Perak Islamic College,1
+64,true,10/25/2023,4/24/2023,University of Dundee,1
+65,false,4/2/2023,8/20/2023,Civil Aviation University of China,1
+66,true,7/1/2023,12/27/2023,Universidad Nacional de Tres de Febrero,1
+67,true,5/5/2023,5/9/2023,Universidad Centroamericana,1
+68,false,8/15/2023,5/18/2023,Notre Dame College,1
+69,true,12/10/2023,12/1/2023,"Universidad de Puerto Rico, Cayey",1
+70,true,5/20/2023,2/7/2023,Jaramogi Oginga Odinga University of Science and Technology,1
+71,false,9/28/2023,11/4/2023,Moscow State Institute of International Relations MFA Russia (MGIMO-University),1
+72,false,10/8/2023,12/18/2023,University of St. Cyril and Methodius in Trnava,1
+73,true,3/15/2023,4/2/2023,Wayne State College,1
+74,true,12/16/2023,3/29/2023,Seigakuin University,1
+75,false,11/23/2023,12/27/2023,Harbin Institute of Technology,1
+76,true,8/15/2023,11/14/2023,Université de Kinshasa,1
+77,true,9/17/2023,4/22/2023,University of Jan Evangelista Purkyne,1
+78,true,5/27/2023,3/22/2023,Indira Gandhi National Open University,1
+79,true,11/27/2023,1/25/2023,Kuvempu University,1
+80,false,1/23/2023,5/26/2023,Konyang University,1
+81,false,4/18/2023,8/9/2023,Ochanomizu Women's University,1
+82,true,4/7/2023,2/4/2023,Tashkent University of Information Technologies,1
+83,true,7/22/2023,2/16/2023,Universidad de San Buenaventura Medellin,1
+84,false,11/29/2023,1/27/2023,Université de Metz,1
+85,true,1/28/2023,2/6/2023,University of British Columbia,1
+86,false,12/2/2023,1/3/2024,University of Education,1
+87,false,5/18/2023,12/3/2023,Napier University,1
+88,false,3/25/2023,3/13/2023,New York Film Academy,1
+89,false,9/20/2023,9/30/2023,Norway's Information Technology University College,1
+90,true,3/4/2023,11/28/2023,Universidad Iberoamericana de Ciencias y Tecnologia,1
+91,false,1/4/2024,11/5/2023,Universidad de Ciencias de la Informatica,1
+92,false,4/16/2023,10/26/2023,St. Joseph College,1
+93,true,9/5/2023,7/22/2023,Iceland Academy of the Arts,1
+94,true,6/17/2023,1/20/2023,Nazareth College,1
+95,true,10/18/2023,7/13/2023,Escuela Agricola Panamericana Zamorano,1
+96,true,4/1/2023,2/11/2023,University of Louisiana at Monroe,1
+97,false,6/11/2023,5/15/2023,Universidad Abierta Interactiva,1
+98,true,1/15/2024,4/15/2023,University of Reading,1
+99,true,5/12/2023,3/11/2023,University of Gdansk,1
+100,true,12/14/2023,7/26/2023,Universidad Particular de Chiclayo,1
+101,false,5/29/2023,2/5/2023,Kasetsart University,1
+102,false,5/16/2023,6/24/2023,Sheffield Hallam University,1
+103,true,9/8/2023,10/5/2023,Westhill University,1
+104,false,4/5/2023,1/19/2023,Veterinärmedizinische Universität Wien,1
+105,true,2/7/2023,11/30/2023,National University of Management,1
+106,false,11/20/2023,12/2/2023,Hanoi Open University,1
+107,true,6/11/2023,11/12/2023,"Institute of Advanced Legal Studies, University of London",1
+108,true,1/15/2024,5/22/2023,Eastern Mennonite University,1
+109,false,6/1/2023,11/15/2023,Université de Liège,1
+110,true,8/13/2023,6/21/2023,Taj International College,1
+111,false,7/12/2023,7/2/2023,University of New York in Prague,1
+112,true,5/5/2023,2/9/2023,Universidad Autónoma de Las Américas,1
+113,true,5/30/2023,12/7/2023,"National Institute of Technology, Durgapur",1
+114,false,9/3/2023,3/28/2023,Sam Houston State University,1
+115,true,2/12/2023,7/10/2023,Nebraska Methodist College of Nursing and Allied Health,1
+116,true,1/24/2023,7/20/2023,Capital University,1
+117,false,3/20/2023,10/15/2023,Fundación Universitaria San Martín,1
+118,false,10/28/2023,12/5/2023,Espam Formation University,1
+119,false,4/11/2023,8/3/2023,Nairobi Institute of Business Studies ,1
+120,true,9/16/2023,9/30/2023,National Yunlin University of Science and Technology,1
+121,true,12/13/2023,7/27/2023,University of Gujrat,1
+122,false,10/4/2023,9/12/2023,University of Batangas,1
+123,true,5/25/2023,11/24/2023,Oradea University,1
+124,false,3/11/2023,1/26/2023,Universidade Católica de Pernambuco,1
+125,false,6/28/2023,1/2/2024,"Islamic Azad University, Gorgan",1
+126,false,5/29/2023,12/18/2023,College of Visual Arts,1
+127,true,8/19/2023,8/19/2023,Molloy College,1
+128,false,7/24/2023,6/7/2023,"Monash University, Malaysia Campus",1
+129,false,8/20/2023,8/16/2023,Chongqing Education College,1
+130,true,9/20/2023,12/10/2023,Florida Community College at Jacksonville,1
+131,true,10/30/2023,5/23/2023,Université Paris Sud (Paris XI),1
+132,true,6/28/2023,8/8/2023,Yokkaichi University,1
+133,false,6/13/2023,1/1/2024,"Universidad de Puerto Rico, Aguadilla",1
+134,false,8/6/2023,4/28/2023,Université de Rouen - Haute Normandie,1
+135,false,4/24/2023,6/26/2023,Vidzeme University College,1
+136,false,1/11/2024,4/22/2023,Kerman Graduate University of Technology,1
+137,false,3/16/2023,9/16/2023,University of Priština,1
+138,true,12/16/2023,2/26/2023,"Begum Rokeya University, Rangpur",1
+139,false,8/6/2023,1/29/2023,Gansu University of Technology,1
+140,true,3/24/2023,8/24/2023,"CollegeAmerica, Phoenix",1
+141,true,4/8/2023,9/8/2023,Jinan University,1
+142,false,11/13/2023,8/7/2023,Grand View College,1
+143,false,3/29/2023,9/22/2023,Shoreline Community College,1
+144,true,3/4/2023,12/28/2023,Detroit College of Law,1
+145,false,8/8/2023,2/6/2023,Marietta College,1
+146,false,5/6/2023,9/2/2023,Institute of Textile Technology,1
+147,true,5/29/2023,3/17/2023,University of East,1
+148,false,5/27/2023,5/1/2023,Universidad de Alcalá de Henares,1
+149,true,4/9/2023,7/9/2023,Università Bocconi,1
+150,true,1/20/2023,6/27/2023,Universidad Nacional de Tucumán,1
+151,true,9/23/2023,4/25/2023,Kunmimg University of Science and Technology,1
+152,true,1/20/2023,2/6/2023,Guangdong Peizheng College ,1
+153,false,4/6/2023,11/18/2023,Universidad Nacional de Lomas de Zamora,1
+154,true,2/15/2023,2/19/2023,Universidade Federal de São Carlos,1
+155,false,12/2/2023,6/9/2023,University of Cambodia,1
+156,true,7/6/2023,12/25/2023,Anna University,1
+157,false,9/20/2023,1/8/2024,Fachhochschule Burgenland,1
+158,true,8/22/2023,3/27/2023,Universidad Católica Nordestana,1
+159,false,3/31/2023,2/25/2023,International Business University of Beijing,1
+160,true,5/3/2023,4/1/2023,Westhill University,1
+161,false,8/30/2023,11/22/2023,Fachhochschule der Wirtschaft,1
+162,true,5/15/2023,7/8/2023,Indiana University-Purdue University at Indianapolis,1
+163,false,12/16/2023,9/12/2023,University of Ontario Institute of Technology,1
+164,true,10/1/2023,3/11/2023,Berea College,1
+165,false,11/27/2023,8/7/2023,Kobe Jogakuin University,1
+166,true,8/4/2023,1/12/2024,University College of Saint-Boniface,1
+167,true,3/7/2023,11/8/2023,Leiden University,1
+168,true,8/17/2023,1/26/2023,University of Central Florida,1
+169,false,9/22/2023,12/31/2023,Eckerd College,1
+170,false,9/3/2023,8/12/2023,Agricultural University of Norway,1
+171,false,5/5/2023,6/30/2023,Tabriz University of Medical Sciences,1
+172,true,10/30/2023,7/15/2023,Universidad de Manizales,1
+173,false,8/25/2023,6/21/2023,Aichi University of Education,1
+174,true,10/22/2023,4/10/2023,Huanghe Science & Technology University,1
+175,false,9/26/2023,5/28/2023,Korea Maritime University,1
+176,true,2/1/2023,3/29/2023,Emily Carr Institute of Art + Design,1
+177,false,8/30/2023,7/24/2023,Najaf Abad University of Applied Science and Technology,1
+178,true,5/29/2023,12/25/2023,Universidad del Rosario,1
+179,true,10/24/2023,5/14/2023,Private Fachhochschule Göttingen,1
+180,true,7/12/2023,3/10/2023,Universiti Tun Abdul Razak,1
+181,false,6/12/2023,12/12/2023,East Tennessee State University,1
+182,false,3/10/2023,10/20/2023,Odessa National Academy of Food Technologies,1
+183,false,4/7/2023,1/6/2024,Universitas Nasional Jakarta,1
+184,false,8/23/2023,6/4/2023,Taejon University,1
+185,false,10/20/2023,6/12/2023,Pontifícia Universidade Católica do Rio Grande do Sul,1
+186,true,8/29/2023,2/15/2023,Beijing Information Science and Technology University,1
+187,true,11/22/2023,9/24/2023,St. Joseph's College of Maine,1
+188,false,2/7/2023,11/29/2023,Cambridge College,1
+189,false,12/21/2023,5/20/2023,Pedagogical University of Czestochowa,1
+190,false,10/31/2023,1/27/2023,Medical Academy in Lodz,1
+191,true,6/25/2023,3/30/2023,Corporación Universitaria de Ibagué (CORUNIVERSITARIA),1
+192,false,1/21/2023,12/18/2023,University of Malakand,1
+193,false,8/25/2023,1/18/2023,California Baptist College,1
+194,true,11/18/2023,9/3/2023,Pomor State University,1
+195,true,11/29/2023,3/10/2023,Philander Smith College,1
+196,true,11/7/2023,12/14/2023,Universitas Negeri Gorontalo,1
+197,false,2/2/2023,8/21/2023,Aarhus Technical College,1
+198,true,11/13/2023,1/23/2023,Institut Supérieur de Commerce et d'Administration des Entreprises,1
+199,true,6/5/2023,5/22/2023,Tokyo Metropolitan University of Health Sciences,1
+200,true,6/18/2023,4/10/2023,"Katholische Fachhochschule Freiburg, Hochschule für Sozialwesen, Religionspädagogik und Pflege",1
+201,true,3/21/2023,11/10/2023,Lyon College,1
+202,false,10/18/2023,9/11/2023,National Institute of the Arts,1
+203,false,4/18/2023,6/28/2023,Hodges University,1
+204,true,4/18/2023,7/20/2023,George Brown College,1
+205,true,2/22/2023,1/2/2024,Mar Athanasios College for Advanced Studies,1
+206,true,1/27/2023,3/22/2023,Université de Bretagne Sud,1
+207,true,8/19/2023,9/25/2023,Quincy University,1
+208,true,12/2/2023,5/7/2023,Virginia Military Institute,1
+209,true,10/22/2023,6/29/2023,George Fox University,1
+210,true,12/14/2023,12/24/2023,Waterford Institute Of Technology,1
+211,false,7/5/2023,11/28/2023,Université de Kamina,1
+212,true,6/14/2023,10/4/2023,Bila Cerkva State Agrarian University,1
+213,true,4/10/2023,8/31/2023,Liaquat University of Medical & Health Sciences Jamshoro,1
+214,true,10/7/2023,5/22/2023,National College for Medical and Technical Studies,1
+215,true,3/27/2023,2/7/2023,Kumamoto Institute of Technology,1
+216,false,4/2/2023,2/19/2023,West Liberty State College,1
+217,true,2/18/2023,7/23/2023,Albany State University,1
+218,true,10/8/2023,11/20/2023,Kyushu Women's University,1
+219,false,1/2/2024,3/3/2023,Illinois Valley Community College,1
+220,true,5/25/2023,3/4/2023,University of Bristol,1
+221,false,8/7/2023,12/10/2023,Darul Hikmah Islamic College,1
+222,true,8/21/2023,2/9/2023,NHTV Breda University of Professional Education,1
+223,true,7/9/2023,9/16/2023,Montana State University,1
+224,false,3/29/2023,10/2/2023,Universidad Antonio de Nebrija,1
+225,true,10/30/2023,3/3/2023,University of Central Oklahoma,1
+226,false,11/17/2023,2/6/2023,Université Panthéon-Sorbonne (Paris I),1
+227,false,1/20/2023,9/7/2023,Warnborough University,1
+228,true,2/12/2023,10/13/2023,Abdus Salam international centre for theoretical physics,1
+229,false,3/26/2023,6/1/2023,Comilla University,1
+230,true,12/4/2023,12/12/2023,Universidad Nacional de Tumbes,1
+231,true,11/2/2023,7/28/2023,National Chiayi University,1
+232,false,2/27/2023,7/24/2023,Universitas Ngurah Rai,1
+233,true,1/20/2023,7/7/2023,Qurtuba University of Science and Infromation Technology,1
+234,false,4/8/2023,11/24/2023,Southern Denmark Business School,1
+235,true,5/7/2023,6/17/2023,Ching Kuo Institue of Management & Health,1
+236,false,7/7/2023,3/14/2023,Sapporo Medical University,1
+237,true,2/17/2023,9/30/2023,Hyogo College of Medicine,1
+238,true,9/10/2023,11/5/2023,University of Hormozgan,1
+239,true,2/27/2023,9/14/2023,International University for Science & Technology ,1
+240,false,11/11/2023,3/8/2023,Ahmedabad University,1
+241,true,10/10/2023,2/22/2023,"Universidad Nacional de la Patagonia ""San Juan Bosco""",1
+242,false,11/30/2023,6/23/2023,Campbellsville College,1
+243,true,9/23/2023,2/12/2023,Voronezh State Pedagogical University,1
+244,true,9/27/2023,10/3/2023,Western Kentucky University,1
+245,true,8/24/2023,6/30/2023,"Arizona State University, Downtown Phoenix Campus",1
+246,true,10/15/2023,10/19/2023,American University in the Emirates,1
+247,false,11/19/2023,5/13/2023,The Global College Lahore,1
+248,true,5/28/2023,7/9/2023,Hokkaido Information University,1
+249,true,2/1/2023,7/11/2023,William and Catherine Booth College,1
+250,true,6/27/2023,10/22/2023,Universitas Putera Batam,1
+251,false,6/27/2023,8/16/2023,Southern Yangtze University,1
+252,true,12/12/2023,11/26/2023,Agricultural University of Szczecin,1
+253,true,12/12/2023,8/11/2023,Central Institute of Fisheries Education,1
+254,true,6/6/2023,3/19/2023,Walter Sisulu University for Technology and Science,1
+255,true,11/24/2023,11/4/2023,Universidad Nacional de Santa - Chimbote,1
+256,true,7/9/2023,3/31/2023,Universidad del Pacifico,1
+257,false,9/19/2023,3/31/2023,Kamakura Women's College,1
+258,true,7/19/2023,8/1/2023,University of Mkar,1
+259,true,12/23/2023,9/18/2023,Al-Isra University,1
+260,false,7/12/2023,8/11/2023,Daniel Webster College,1
+261,true,9/30/2023,1/8/2024,Universidad de Montevideo,1
+262,true,2/15/2023,3/2/2023,Mazandaran University of Medical Science,1
+263,false,9/1/2023,6/8/2023,Allameh Tabatabaie University,1
+264,true,5/9/2023,6/29/2023,Al-Jabal Al-Gharbi University,1
+265,true,10/27/2023,11/22/2023,University of Chittagong,1
+266,true,4/14/2023,9/25/2023,Miami University of Ohio - Hamilton,1
+267,true,1/10/2024,12/25/2023,University of Central Punjab,1
+268,false,2/15/2023,5/1/2023,Soka University,1
+269,true,6/4/2023,4/25/2023,University of Sibiu,1
+270,true,12/20/2023,8/5/2023,"University ""Titu Maiorescu""",1
+271,false,4/18/2023,4/5/2023,Emory & Henry College,1
+272,true,4/18/2023,12/11/2023,Fachhochschule Ingolstadt,1
+273,false,9/8/2023,12/21/2023,Royal Roads University,1
+274,false,7/23/2023,11/21/2023,Bar-Ilan University,1
+275,false,4/10/2023,12/24/2023,Instituto Politécnico da Guarda,1
+276,true,11/8/2023,10/24/2023,University of Management and Technology,1
+277,false,8/27/2023,1/31/2023,Midwestern State University,1
+278,false,4/4/2023,11/23/2023,Universidade Ibirapuera,1
+279,false,11/24/2023,4/19/2023,University of Alexandra Dubček in Trenčín,1
+280,true,2/7/2023,9/14/2023,State University of New York College of Agriculture and Technology at Cobleskill,1
+281,false,3/13/2023,10/12/2023,Baku Slavic University,1
+282,false,11/19/2023,9/22/2023,China University of Political Science and Law,1
+283,true,10/3/2023,12/13/2023,Mount Saint Vincent University,1
+284,false,3/23/2023,11/1/2023,"Indian Institute of Technology, Roorkee",1
+285,false,1/11/2024,1/31/2023,Universitas Simalungun,1
+286,false,6/20/2023,12/29/2023,Wuhan Automobile Polytechnical University,1
+287,false,2/13/2023,11/4/2023,"Birla Institute of Technology, Ranchi",1
+288,true,10/17/2023,8/31/2023,St. John's Seminary,1
+289,true,4/14/2023,10/2/2023,Université de Liège,1
+290,true,5/5/2023,9/1/2023,Kyoto University of Art and Design,1
+291,false,4/1/2023,6/4/2023,University of Osijek,1
+292,false,2/19/2023,6/6/2023,Kuala Terengganu City Polytechnic,1
+293,true,12/15/2023,4/25/2023,University of Abertay Dundee,1
+294,true,3/6/2023,10/19/2023,Technische Universität Ilmenau,1
+295,false,8/18/2023,3/24/2023,Technical University of Zielona Gora,1
+296,false,3/28/2023,5/24/2023,Milligan College,1
+297,true,9/25/2023,5/11/2023,University of Papua New Guinea,1
+298,true,6/8/2023,5/12/2023,Universiti Tenaga Nasional,1
+299,false,4/11/2023,12/4/2023,Ufuk University,1
+300,false,9/7/2023,12/11/2023,Universidad de Atacama,1
+301,true,12/23/2023,12/20/2023,Universidad Motolinía del Pedegral,1
+302,false,12/23/2023,1/1/2024,Himeji Dokkyo University,1
+303,true,8/2/2023,11/23/2023,Blue Mountains Hotel School,1
+304,false,2/23/2023,3/6/2023,Dominica State College,1
+305,false,11/3/2023,12/31/2023,Universität der Bundeswehr Hamburg,1
+306,false,1/12/2024,8/29/2023,"University of Maine, Machias",1
+307,true,4/3/2023,6/20/2023,Université Euro-Afrique,1
+308,false,12/12/2023,6/30/2023,Wesleyan University,1
+309,false,12/14/2023,10/26/2023,Universidad Autónoma del Paraguay,1
+310,false,10/23/2023,3/23/2023,Vanguard University of Southern California,1
+311,true,10/12/2023,11/17/2023,Université Moulay Ismail Meknès,1
+312,true,9/20/2023,2/18/2023,Power and Water Institute of Technology,1
+313,false,9/13/2023,1/2/2024,Visva-Bharati University,1
+314,false,1/31/2023,3/27/2023,Texas Tech University,1
+315,true,3/8/2023,11/7/2023,Alma College,1
+316,true,2/6/2023,5/8/2023,Tokyo Keizai University,1
+317,false,7/17/2023,12/7/2023,China Foreign Affairs University,1
+318,false,3/5/2023,1/11/2024,Manonmaniam Sundaranar University,1
+319,true,7/14/2023,6/11/2023,Fayetteville State University,1
+320,false,2/13/2023,11/5/2023,DCT International Hotel & Business Management School,1
+321,true,11/28/2023,7/29/2023,Virginia Military Institute,1
+322,true,4/13/2023,11/25/2023,Northwest A&F University,1
+323,false,4/17/2023,5/24/2023,"National Chung Hsing University, Taichung",1
+324,false,1/17/2023,1/18/2023,Shahrood University of Technology,1
+325,true,8/18/2023,2/13/2023,Swedish University of Agricultural Sciences,1
+326,true,9/4/2023,4/5/2023,Otto-Friedrich Universität Bamberg,1
+327,false,12/13/2023,5/28/2023,Ardabil University of Medical Sciences,1
+328,false,8/6/2023,5/28/2023,Kent State University - Ashtabula,1
+329,false,12/23/2023,4/16/2023,Birjand University of Medical Sciences,1
+330,false,10/28/2023,1/7/2024,Medical College of Pennsylvania and Hahnemann University,1
+331,true,4/17/2023,12/9/2023,Tennessee Temple University,1
+332,false,10/31/2023,8/24/2023,Technical University of Sofia,1
+333,false,11/25/2023,9/24/2023,Hawler Medical University,1
+334,false,7/8/2023,12/17/2023,Illinois School of Professional Psychology - Chicago Campus,1
+335,true,10/12/2023,5/4/2023,Mogadishu University,1
+336,false,9/29/2023,10/31/2023,Northern Michigan University,1
+337,false,3/4/2023,2/10/2023,University College Dublin,1
+338,false,3/21/2023,8/5/2023,Jiangxi University of Finance and Economics,1
+339,true,3/3/2023,4/25/2023,"Institute of Teachers Education, Ilmu Khas",1
+340,true,4/14/2023,10/10/2023,Wuhan Technical University of Surveying and Mapping,1
+341,false,2/15/2023,9/18/2023,National Taichung Teachers College,1
+342,false,5/8/2023,6/21/2023,Technological University (Thanlyin),1
+343,true,11/28/2023,2/9/2023,University of Tennessee - Memphis,1
+344,false,7/1/2023,4/29/2023,University of Wisconsin - Whitewater,1
+345,false,2/6/2023,11/28/2023,Tokyo Medical College,1
+346,true,3/3/2023,9/19/2023,American InterContinental University - Ft. Lauderdale,1
+347,false,10/10/2023,6/20/2023,Kitakyushu University,1
+348,false,10/2/2023,11/30/2023,Tribhuvan University Kathmandu,1
+349,false,4/7/2023,3/23/2023,Staatliche Hochschule für Musik,1
+350,true,7/18/2023,6/6/2023,Eastern New Mexico University,1
+351,false,1/9/2024,11/15/2023,Hefei University of Technology,1
+352,true,8/7/2023,2/16/2023,University of Buckingham,1
+353,false,1/26/2023,9/7/2023,Dominican College,1
+354,true,8/8/2023,4/3/2023,Middle East Technical University,1
+355,false,5/21/2023,12/13/2023,Bindura University of Science Education,1
+356,true,1/31/2023,2/20/2023,Université d'Etat d'Haiti,1
+357,true,7/27/2023,10/22/2023,Carlow College,1
+358,false,3/18/2023,7/24/2023,Josai International University,1
+359,true,4/3/2023,1/26/2023,Steinbeis-Hochschule-Berlin,1
+360,false,1/19/2023,8/5/2023,Komsomolsk-on-Amur State Technical University,1
+361,false,7/23/2023,8/7/2023,Instituto Superior D. Afonso III - INUAF,1
+362,true,9/7/2023,9/27/2023,"Universidad de Bogotá ""Jorge Tadeo Lozano""",1
+363,true,10/25/2023,3/26/2023,"University of the East, Coloocan",1
+364,false,8/23/2023,6/21/2023,University of Milan,1
+365,false,11/28/2023,10/4/2023,Fuji Women's College,1
+366,false,7/10/2023,4/15/2023,Bugema University,1
+367,true,1/15/2024,2/16/2023,Jimma University,1
+368,false,4/15/2023,10/10/2023,Armenian State University of Economics,1
+369,true,9/27/2023,5/16/2023,San Diego State University,1
+370,true,1/10/2024,6/23/2023,Omsk State Pedagogical University,1
+371,false,8/18/2023,2/2/2023,Florida Memorial College,1
+372,false,4/2/2023,5/5/2023,China Academy of Art,1
+373,true,7/15/2023,3/13/2023,Nebraska Wesleyan University,1
+374,true,11/30/2023,1/22/2023,Nanjing University of Economics,1
+375,true,10/18/2023,2/28/2023,Niigata Sangyo University,1
+376,false,8/19/2023,6/17/2023,Universidade Metodista de Angola,1
+377,false,3/23/2023,8/24/2023,St. Anselm College,1
+378,false,3/4/2023,12/23/2023,College of St. Mary,1
+379,false,2/21/2023,4/19/2023,Universität Graz,1
+380,true,6/14/2023,11/20/2023,University of Bologna,1
+381,false,10/20/2023,11/20/2023,Athlone Institute of Technology,1
+382,true,8/6/2023,12/12/2023,Ferris University,1
+383,true,1/23/2023,8/23/2023,Evangelische Fachhochschule Rheinland-Westfalen-Lippe,1
+384,false,12/5/2023,8/29/2023,Seoul Teological University,1
+385,true,12/26/2023,10/12/2023,Universidad Nacional Pedro Ruíz Gallo,1
+386,true,12/8/2023,10/20/2023,Uva Wellassa University,1
+387,true,3/9/2023,12/26/2023,Kirkwood Community College,1
+388,false,7/24/2023,10/27/2023,Maria Grzegorzewska College for Special Education,1
+389,true,11/14/2023,7/19/2023,Military Institute of Science and Technology,1
+390,false,11/18/2023,6/16/2023,Private Fachhochschule für Wirtschaft und Technik Vechta/Diepholz,1
+391,false,8/9/2023,8/27/2023,Romanian-American University,1
+392,false,2/28/2023,10/24/2023,The College of New Jersey,1
+393,true,11/15/2023,7/19/2023,Philadelphia College of Osteopathic Medicine,1
+394,true,2/15/2023,3/16/2023,College of New Rochelle,1
+395,true,1/4/2024,3/31/2023,Universidad Nacional Andrés Bello,1
+396,true,8/16/2023,5/26/2023,Hochschule für Technik und Wirtschaft Dresden (FH),1
+397,false,5/14/2023,10/30/2023,American Jewish University,1
+398,true,12/29/2023,11/26/2023,Tabriz University,1
+399,false,12/23/2023,7/9/2023,International Medical University,1
+400,true,2/7/2023,9/3/2023,Newschool of Architecture and Design,1
+401,true,8/22/2023,9/25/2023,Olive-Harvey College,1
+402,false,7/27/2023,2/2/2023,Universitas Jayabaya,1
+403,true,1/13/2024,6/19/2023,Loma Linda University,1
+404,false,2/15/2023,5/23/2023,University of Otago,1
+405,false,3/13/2023,7/25/2023,Ecole Supérieure de Commerce et des Affaires,1
+406,true,12/22/2023,10/27/2023,Universidade de Taubaté,1
+407,true,9/9/2023,11/5/2023,International Culinary Institute (ICI),1
+408,false,11/17/2023,10/26/2023,Minnesota School of Professional Psychology,1
+409,true,4/4/2023,11/24/2023,Universidad Católica Anselmo Llorente,1
+410,false,3/4/2023,1/4/2024,"California State University, Dominguez Hills",1
+411,false,8/20/2023,2/26/2023,Fakir Mohan University,1
+412,true,12/25/2023,12/21/2023,Benguet State University,1
+413,false,1/28/2023,10/13/2023,"Webster University, Vienna",1
+414,false,9/6/2023,11/4/2023,International University Institute of Luxembourg,1
+415,false,6/19/2023,9/10/2023,University of Illinois at Springfield,1
+416,true,9/14/2023,12/17/2023,University of Trinity College,1
+417,false,7/11/2023,2/15/2023,Mount Meru University,1
+418,false,9/20/2023,4/9/2023,Huazhong Agricultural University,1
+419,true,6/27/2023,2/27/2023,Universität Bielefeld,1
+420,true,2/16/2023,10/21/2023,"Islamic Azad University, Dehaghan",1
+421,false,11/29/2023,9/4/2023,Universitas Pancasakti Tegal,1
+422,false,5/24/2023,9/30/2023,Fukui University,1
+423,true,5/13/2023,6/22/2023,Universidad Bernardo O'Higgins,1
+424,true,4/10/2023,11/26/2023,Liaocheng Teachers University,1
+425,false,2/24/2023,6/3/2023,Universidad de Alcalá de Henares,1
+426,true,5/13/2023,10/11/2023,Police Academy in Bratislava,1
+427,false,12/2/2023,11/21/2023,Tokai Gakuen University,1
+428,true,4/27/2023,9/6/2023,Darul Takzim Institute of Technology,1
+429,false,11/6/2023,8/1/2023,Saint Mary's University,1
+430,true,2/11/2023,9/13/2023,Kuala Lumpur Metropolitan University,1
+431,false,9/19/2023,4/2/2023,Samara State Technical University,1
+432,false,10/30/2023,2/23/2023,Madison University (Distance Education),1
+433,false,1/18/2023,1/9/2024,Ecole Supérieure d'Optique,1
+434,true,10/25/2023,10/11/2023,Muskingum College,1
+435,true,11/16/2023,7/28/2023,Shukutoku University,1
+436,false,11/4/2023,8/2/2023,Jackson State University,1
+437,false,1/19/2023,11/15/2023,Rovaniemi University of Applied Sciences,1
+438,false,3/9/2023,9/21/2023,ECAM - Institut Supérieur Industriel,1
+439,false,6/12/2023,2/6/2023,Universidade Metropolitana de Angola,1
+440,false,7/9/2023,10/14/2023,Mahamakut Buddhist University,1
+441,true,12/10/2023,2/16/2023,Universidad Nacional José Faustino Sánchez Carrión,1
+442,true,3/26/2023,8/14/2023,Huaihai Institute of Technology,1
+443,false,10/11/2023,4/16/2023,Dong-A University,1
+444,true,2/6/2023,5/31/2023,Pacifica Graduate Institute,1
+445,true,10/1/2023,4/20/2023,Yüzüncü Yil (Centennial) University,1
+446,true,12/3/2023,12/18/2023,Avondale College,1
+447,true,3/5/2023,2/13/2023,Ecole Nationale Vétérinaire de Lyon,1
+448,true,11/18/2023,5/6/2023,Cumberland University,1
+449,true,8/20/2023,1/29/2023,"Islamic Azad University, Region One",1
+450,true,9/16/2023,8/5/2023,Sapporo International University,1
+451,false,2/27/2023,4/26/2023,"Bowling Green State University, Firelands",1
+452,true,1/26/2023,5/16/2023,State University of New York at Binghamton,1
+453,false,2/27/2023,4/13/2023,Universidad Americana,1
+454,false,9/24/2023,8/20/2023,Volgograd State Technical University,1
+455,true,7/8/2023,3/5/2023,Urbana University,1
+456,true,6/12/2023,6/5/2023,Ural Gorkij State University,1
+457,true,12/22/2023,3/31/2023,Coppin State College,1
+458,true,4/25/2023,3/12/2023,University of Northern Washington,1
+459,false,8/21/2023,9/28/2023,Polytechnic University of the Philippines,1
+460,true,11/24/2023,5/24/2023,Kaplan University,1
+461,false,2/4/2023,8/31/2023,Government College University Faisalabad,1
+462,false,1/7/2024,8/17/2023,"Hochschule für Bankwirtschaft (HfB), Private Fachhochschule der Bankakademie",1
+463,true,9/20/2023,5/14/2023,Kumaun University,1
+464,true,7/26/2023,11/30/2023,St. Petersburg State Mountain Institut,1
+465,true,9/18/2023,10/17/2023,University of Lodz,1
+466,false,12/28/2023,6/20/2023,Benedictine University,1
+467,false,3/9/2023,12/7/2023,Qom University of Medical Sciences,1
+468,false,2/28/2023,12/6/2023,Anhui Technical College of Water Resources and Hydroelectric Power,1
+469,false,8/7/2023,5/8/2023,South-East Asia University,1
+470,false,8/1/2023,9/15/2023,"Université du Sud, Toulon et Var",1
+471,true,7/4/2023,10/21/2023,Belarussian State University of Transport,1
+472,false,6/22/2023,4/12/2023,Copperbelt University,1
+473,false,3/29/2023,7/31/2023,Sonoda Women's University,1
+474,false,3/19/2023,6/25/2023,University of KwaZulu-Natal,1
+475,false,3/14/2023,4/2/2023,Universidad Politecnica de Puerto Rico,1
+476,true,8/31/2023,1/2/2024,Punjab University College of Information Tecnology,1
+477,true,8/21/2023,2/22/2023,Trinity University,1
+478,false,5/24/2023,5/12/2023,National School of Political and Administrative Studies Bucharest,1
+479,false,12/30/2023,11/4/2023,Aleksander Gieysztor School of Humanities in Pultusk,1
+480,false,10/28/2023,4/21/2023,University of Kelaniya,1
+481,false,6/14/2023,11/23/2023,Eastern Mediterranean University,1
+482,true,9/30/2023,1/1/2024,Kendall College of Art and Design,1
+483,false,12/19/2023,3/26/2023,Arak University of Technology,1
+484,true,7/27/2023,5/29/2023,Sherman College of Straight Chiropractic,1
+485,false,3/7/2023,7/18/2023,"Institute of Teachers Education, Darul Aman",1
+486,false,9/4/2023,7/22/2023,Loma Linda University,1
+487,true,7/31/2023,5/4/2023,Marij State University,1
+488,true,2/4/2023,3/19/2023,Wilmington College,1
+489,false,9/1/2023,8/28/2023,Wright State University,1
+490,false,7/11/2023,11/14/2023,Czech University of Agriculture Prague,1
+491,false,1/16/2023,9/12/2023,University of Sydney,1
+492,true,12/6/2023,11/14/2023,"Institue of Historical Research, University of London",1
+493,false,7/3/2023,11/14/2023,Smolensk State Medical Academy,1
+494,false,4/10/2023,7/1/2023,Carlow Institute of Technology,1
+495,false,12/25/2023,4/6/2023,Malayer University,1
+496,true,5/2/2023,3/1/2023,Danish University of Education,1
+497,false,12/29/2023,10/27/2023,Universidad de Santiago de Compostela,1
+498,true,2/2/2023,4/1/2023,Shanghai Medical University,1
+499,false,5/2/2023,1/18/2023,Tehran University of Medical Sciences,1
+500,false,4/12/2023,5/18/2023,The College of Wooster,1
+501,true,2/26/2023,2/20/2023,University of Iowa,1
+502,true,3/10/2023,5/19/2023,Universidad de Cuenca,1
+503,false,9/24/2023,7/11/2023,Segi University College,1
+504,true,7/14/2023,3/21/2023,Université de Douala,1
+505,true,7/24/2023,6/15/2023,IT University of Copenhagen,1
+506,true,7/11/2023,10/19/2023,Wheeling Jesuit University,1
+507,false,10/9/2023,3/11/2023,Botswana International University of Science & Technology,1
+508,false,3/11/2023,7/3/2023,College Misericordia,1
+509,false,10/28/2023,6/5/2023,Chiang Mai University,1
+510,false,10/15/2023,9/28/2023,American University of Sharjah,1
+511,true,12/18/2023,12/6/2023,Baker College of Port Huron,1
+512,true,12/17/2023,10/11/2023,Universidade Federal do Espírito Santo,1
+513,true,7/21/2023,12/14/2023,Ecole des Hautes Etudes en Gestion Informatique et Communication,1
+514,true,1/27/2023,1/16/2023,Yokohama College of Commerce,1
+515,true,9/14/2023,9/15/2023,Seberang Perai Polytechnic,1
+516,true,3/5/2023,2/4/2023,Universidad Industrial de Santander,1
+517,true,5/25/2023,12/17/2023,University of Lecce,1
+518,true,11/7/2023,2/25/2023,All India Institute of Medical Sciences,1
+519,false,2/10/2023,7/12/2023,Moldova Technical University,1
+520,true,7/9/2023,7/14/2023,University of Montana,1
+521,true,2/5/2023,4/14/2023,"Universidad de Puerto Rico, Ponce",1
+522,false,6/23/2023,11/9/2023,The College of Santa Fe,1
+523,false,2/18/2023,12/22/2023,"NGO Vladikavkaz Institute of Economics, Management, and Law",1
+524,false,4/2/2023,9/28/2023,Knightsbridge University,1
+525,false,7/22/2023,9/7/2023,University of Burao,1
+526,false,4/26/2023,11/23/2023,Vanguard University of Southern California,1
+527,true,5/4/2023,7/28/2023,Algonquin College,1
+528,false,10/10/2023,4/13/2023,Westsächsische Hochschule Zwickau (FH),1
+529,false,7/20/2023,1/22/2023,"University of Maine, Presque Isle",1
+530,false,4/8/2023,3/8/2023,Washington Bible College,1
+531,true,8/11/2023,4/12/2023,"Cleveland Chiropractic College, Kansas City",1
+532,false,9/2/2023,8/3/2023,Dokkyo University School of Medicine,1
+533,false,12/25/2023,12/18/2023,Meikai University,1
+534,true,1/3/2024,5/26/2023,Indian Agricultural Research Institute,1
+535,true,8/8/2023,7/23/2023,Kobe University of Mercantile Marine,1
+536,true,11/22/2023,12/11/2023,National Hispanic University,1
+537,true,2/13/2023,5/25/2023,Portland State University,1
+538,true,6/14/2023,4/6/2023,Universidad Peruana de Ciencias Aplicadas,1
+539,true,9/18/2023,6/28/2023,Aimst University,1
+540,true,8/28/2023,11/1/2023,University of Alabama - Huntsville,1
+541,false,1/25/2023,1/26/2023,"Islamic Azad University, Fars Science & Research Branch",1
+542,true,7/7/2023,4/17/2023,Daiichi University of Economics,1
+543,true,10/23/2023,11/1/2023,Jeonju University,1
+544,false,10/24/2023,7/6/2023,Ecole Nationale des Travaux Publics de l'Etat,1
+545,true,9/11/2023,7/31/2023,University of Hawaii - Hilo,1
+546,true,5/14/2023,1/21/2023,Hemchandracharay North Gujarat University,1
+547,false,8/27/2023,1/23/2023,American University of Sharjah,1
+548,true,1/9/2024,10/5/2023,Biola University,1
+549,true,5/19/2023,7/27/2023,University of Nueva Caceres,1
+550,false,10/13/2023,9/6/2023,Ilsa Independent College,1
+551,true,4/4/2023,5/11/2023,Universidad Francisco Gavidia,1
+552,true,1/9/2024,7/28/2023,Cyryx College,1
+553,false,3/12/2023,7/8/2023,Universidad Católica Popular del Risaralda,1
+554,false,3/30/2023,12/14/2023,Universidad de la Sierra A.C.,1
+555,true,1/26/2023,12/28/2023,Art Institute of Southern California,1
+556,false,6/17/2023,10/14/2023,St. Bernard's Institute,1
+557,true,1/11/2024,8/29/2023,Konan University,1
+558,false,8/2/2023,4/19/2023,Belarussian State Technological University,1
+559,false,2/12/2023,8/16/2023,Leon Kozminski Academy of Entrepreneurship and Mangement,1
+560,true,6/1/2023,10/27/2023,Baze University Abuja,1
+561,true,8/12/2023,8/4/2023,Rand Graduate School of Policy Studies,1
+562,true,9/3/2023,6/13/2023,Northwest Missouri State University,1
+563,false,4/12/2023,9/30/2023,"Bauchi State University, Gadau",1
+564,false,10/19/2023,10/11/2023,The Illinois Institute of Art-Chicago,1
+565,false,4/15/2023,12/14/2023,Josai University,1
+566,true,6/25/2023,5/17/2023,"Rasmussen College, Florida Campuses",1
+567,false,3/13/2023,3/9/2023,Assumption College,1
+568,true,11/9/2023,2/8/2023,Université Ez-Zitouna,1
+569,false,3/26/2023,12/12/2023,MCI-Management Center Innsbruck,1
+570,false,11/17/2023,6/5/2023,Caribbean University,1
+571,false,10/16/2023,6/21/2023,Universidade Católica de Angola,1
+572,false,12/21/2023,10/12/2023,Sultan Salahuddin Abdul Aziz Shah Polytechnic,1
+573,true,3/3/2023,4/7/2023,British College of Osteopathic Medicine,1
+574,true,6/7/2023,6/30/2023,Fukui University of Technology,1
+575,true,11/17/2023,7/20/2023,Instituto Tecnológico Autonómo de México,1
+576,false,6/3/2023,2/21/2023,University of the Cordilleras,1
+577,false,6/2/2023,4/17/2023,Odessa National Academy of Food Technologies,1
+578,false,4/27/2023,2/5/2023,Tiffin University Prague,1
+579,true,4/13/2023,1/24/2023,Universidade Fernando Pessoa,1
+580,false,10/7/2023,12/21/2023,Menlo College,1
+581,false,12/29/2023,8/3/2023,Koc University,1
+582,false,9/1/2023,8/1/2023,Royal Veterinary and Agricultural University,1
+583,true,3/4/2023,8/31/2023,Universidad Centro Occidental Lisandro Alvarado,1
+584,true,6/14/2023,5/14/2023,Sadat Academy for Management Sciences,1
+585,false,4/13/2023,5/17/2023,Briar Cliff College,1
+586,true,4/25/2023,11/7/2023,Azusa Pacific University,1
+587,false,8/21/2023,12/27/2023,Southern New Hampshire University,1
+588,false,2/16/2023,6/19/2023,Oglethorpe University,1
+589,false,7/17/2023,9/22/2023,Niigata Sangyo University,1
+590,true,11/3/2023,12/6/2023,Universidade Católica de Pernambuco,1
+591,true,12/30/2023,6/6/2023,University of Tampere,1
+592,false,5/1/2023,1/14/2024,Odense University,1
+593,true,5/9/2023,8/20/2023,Université Catholique de Lille,1
+594,true,3/26/2023,4/1/2023,Universidad San Sebastian,1
+595,false,4/24/2023,9/20/2023,Dayalbagh Educational Institute,1
+596,false,8/20/2023,6/29/2023,Louisiana State University at Alexandria,1
+597,false,4/13/2023,11/27/2023,Kyoto University,1
+598,true,2/8/2023,9/20/2023,Kentucky Christian College,1
+599,true,1/21/2023,7/13/2023,Universidad Nacional Pedro Ruíz Gallo,1
+600,false,11/20/2023,1/11/2024,Yashawantrao Chavan Maharashtra Open University,1
+601,true,9/20/2023,12/10/2023,Northern State University,1
+602,true,12/10/2023,7/16/2023,Mizan Tepi University,1
+603,false,3/15/2023,8/30/2023,Palestine Polytechnic University,1
+604,false,2/24/2023,7/14/2023,"Universidad Interamericana de Puerto Rico, San Germán",1
+605,false,9/28/2023,5/31/2023,Osaka Electro-Communication University,1
+606,true,5/2/2023,7/8/2023,Pacific Lutheran University,1
+607,true,9/10/2023,2/2/2023,Patuakhali Science and Technology University,1
+608,true,8/25/2023,1/7/2024,Universidad Autónoma del Estado de Morelos,1
+609,true,5/6/2023,1/12/2024,Goshen College,1
+610,true,5/16/2023,9/13/2023,"California State University, Sacramento",1
+611,false,8/12/2023,12/29/2023,Dutch Delta University,1
+612,false,11/2/2023,10/13/2023,Kuban State University of Agriculture,1
+613,false,12/16/2023,11/22/2023,Konyang University,1
+614,false,1/6/2024,11/16/2023,Universidad de Vigo,1
+615,false,4/23/2023,8/11/2023,Hiiraan University,1
+616,true,3/6/2023,4/8/2023,Far Eastern State University,1
+617,false,11/28/2023,5/12/2023,Sojourner-Douglass College,1
+618,false,5/18/2023,9/19/2023,Universidad Nacional Abierta y a Distancia,1
+619,true,2/2/2023,7/5/2023,Harding University Graduate School of Religion,1
+620,true,5/31/2023,9/12/2023,Columbia College,1
+621,false,7/2/2023,5/18/2023,Patna University,1
+622,false,9/25/2023,5/12/2023,Ecole Superieur d'Ingenieurs Leonard de Vinci,1
+623,false,9/8/2023,3/11/2023,Manhattanville College,1
+624,true,5/14/2023,3/27/2023,University College of Cape Breton,1
+625,true,12/15/2023,2/18/2023,Universidad Nacional de Ingenieria,1
+626,false,11/1/2023,8/16/2023,Universitas Pembangunan Panca Budi,1
+627,true,2/13/2023,9/25/2023,Fordham University,1
+628,true,8/28/2023,6/16/2023,Universidad Catolica del Maule,1
+629,false,12/14/2023,6/20/2023,Hanshin University,1
+630,false,12/7/2023,10/9/2023,University of Bradford,1
+631,false,9/15/2023,7/21/2023,College of St. Rose,1
+632,false,2/13/2023,2/5/2023,"Instituto de Artes Visuais, Design e Marketing - IADE",1
+633,false,6/2/2023,7/4/2023,Lithuania Christian College,1
+634,true,11/11/2023,4/7/2023,Beijing Petroleum University,1
+635,true,2/25/2023,4/4/2023,Université Chrétienne Bilingue du Congo,1
+636,true,1/27/2023,10/10/2023,Alexandria University,1
+637,true,12/18/2023,6/6/2023,University of Silesia,1
+638,true,9/18/2023,4/6/2023,Hansei University,1
+639,false,9/12/2023,11/22/2023,National Research University of Electronic Technology,1
+640,false,5/10/2023,2/17/2023,Universität Köln,1
+641,false,6/4/2023,11/21/2023,"Concordia College, Seward",1
+642,true,4/26/2023,4/22/2023,"Yorker International University, Milano",1
+643,false,1/14/2024,2/19/2023,The Rockefeller University,1
+644,false,5/22/2023,1/12/2024,Nakhchivan State University,1
+645,false,7/7/2023,2/18/2023,Asia E University,1
+646,false,12/24/2023,6/20/2023,Universidad Obrera de Mexico,1
+647,true,5/20/2023,8/31/2023,Indiana University at South Bend,1
+648,false,4/10/2023,12/21/2023,Yokohama College of Commerce,1
+649,true,10/1/2023,9/15/2023,Universidade Moderna de Lisboa,1
+650,true,12/6/2023,9/9/2023,Xi'an Jiaotong University,1
+651,true,1/19/2023,4/21/2023,Tohoku University,1
+652,false,1/14/2024,11/30/2023,Perm State Academy of Agriculture,1
+653,true,3/28/2023,8/31/2023,Ecole Nationale Supérieure des Mines de Paris,1
+654,true,6/17/2023,5/2/2023,Technische Fachhochschule Wildau,1
+655,false,11/29/2023,8/3/2023,"Allahabad Agricultural Institute, Deemed University",1
+656,false,1/26/2023,7/3/2023,National United University,1
+657,false,6/29/2023,1/24/2023,Concordia University,1
+658,false,10/28/2023,10/29/2023,Kagoshima Women's College,1
+659,false,12/12/2023,12/10/2023,Azerbaijan Medical University,1
+660,false,2/23/2023,8/11/2023,Gebze Institute of Technology,1
+661,true,9/29/2023,3/19/2023,Institut Prima Bestari - Pine Academy ,1
+662,false,9/29/2023,5/27/2023,Universidade São Marcos,1
+663,true,7/12/2023,10/6/2023,"Universidad Católica Boliviana, Santa Cruz",1
+664,false,1/11/2024,4/7/2023,Providence College,1
+665,true,8/22/2023,4/13/2023,Northern Sichuan Medical College,1
+666,true,6/28/2023,6/29/2023,Pennsylvania Academy of the Fine Arts,1
+667,true,8/21/2023,6/4/2023,University of Wisconsin - River Falls,1
+668,false,11/4/2023,5/30/2023,Ecole Nationale Supérieure d'Agronomie de Rennes,1
+669,false,10/21/2023,3/14/2023,Jaramogi Oginga Odinga University of Science and Technology,1
+670,true,9/9/2023,5/20/2023,University College of Technology & Innovation (UCTI),1
+671,true,2/26/2023,5/31/2023,Newport International University,1
+672,true,8/9/2023,9/20/2023,University of Szczecin,1
+673,false,1/28/2023,10/5/2023,Sadjad Institute of Technology,1
+674,false,5/18/2023,6/11/2023,University of Food Technology,1
+675,true,2/24/2023,4/25/2023,Utah State University,1
+676,false,5/5/2023,5/23/2023,Niagara University,1
+677,true,3/19/2023,8/3/2023,Isfahan University of Medical Sciences,1
+678,false,2/3/2023,12/12/2023,Eastern Connecticut State University,1
+679,false,12/13/2023,12/18/2023,Université de Mahajanga,1
+680,false,10/18/2023,1/28/2023,Academy of Arts in Banská Bystrica,1
+681,false,4/29/2023,12/20/2023,Tallinn University,1
+682,false,5/7/2023,5/12/2023,International Centre for Isclamic Science,1
+683,false,10/28/2023,5/19/2023,Helwan University,1
+684,true,5/9/2023,10/1/2023,University of Zadar,1
+685,true,8/5/2023,4/24/2023,Coppin State College,1
+686,false,5/29/2023,3/31/2023,Université de Lomé,1
+687,true,2/9/2023,11/12/2023,"National Chung Hsing University, Taichung",1
+688,false,9/21/2023,4/4/2023,Fukuoka International University,1
+689,false,12/1/2023,7/22/2023,Millersville University of Pennsylvania,1
+690,false,1/31/2023,8/28/2023,Bilkent University,1
+691,true,6/12/2023,8/18/2023,Universitas Dr. R. Moestopo,1
+692,true,2/13/2023,7/10/2023,Universidad Católica Tecnológica del Cibao,1
+693,false,5/7/2023,10/30/2023,Institut d'Etudes Politiques de Bordeaux,1
+694,false,11/30/2023,11/12/2023,Saginaw Valley State University,1
+695,false,12/5/2023,12/17/2023,Law University of Bratislava,1
+696,true,1/25/2023,5/28/2023,Zhongnan University of Finance and Economics,1
+697,false,9/28/2023,12/23/2023,Western State University College of Law - Orange County,1
+698,false,12/19/2023,5/27/2023,The Manchester Metropolitan University,1
+699,true,10/3/2023,7/22/2023,University of Delhi,1
+700,false,1/26/2023,2/4/2023,University of Connecticut Health Center,1
+701,false,8/30/2023,6/13/2023,Newschool of Architecture and Design,1
+702,false,8/24/2023,7/26/2023,Catholic Theological Union,1
+703,true,9/8/2023,8/14/2023,Mulungushi University,1
+704,true,12/6/2023,10/13/2023,West Bengal University of Animal and Fishery Sciences,1
+705,true,4/16/2023,2/27/2023,Guangxi Normal University,1
+706,false,12/17/2023,2/11/2023,University of Central Greece,1
+707,false,9/13/2023,9/23/2023,Fachhochschule Deggendorf,1
+708,false,7/5/2023,10/18/2023,Technical University of Liberec,1
+709,true,2/22/2023,2/6/2023,Okayama University of Science,1
+710,false,1/5/2024,12/25/2023,Universidad de Pinar del Río,1
+711,true,6/25/2023,8/11/2023,Universidad Anáhuac del Sur,1
+712,false,1/16/2023,6/28/2023,University of Florida,1
+713,true,9/28/2023,3/7/2023,University of Electronic Science and Technology of China,1
+714,true,12/24/2023,5/20/2023,Dr. D.Y. Patil University,1
+715,false,4/6/2023,10/17/2023,Tatung Institute of Technology,1
+716,true,5/14/2023,9/28/2023,Myanmar Aerospace Engineering University,1
+717,true,2/20/2023,3/13/2023,University of Connecticut,1
+718,false,7/16/2023,6/1/2023,Dakota Wesleyan University,1
+719,true,2/4/2023,12/18/2023,Park College,1
+720,true,3/31/2023,3/5/2023,National Taiwan Normal University,1
+721,false,2/18/2023,1/27/2023,Eelo American University,1
+722,true,6/16/2023,5/2/2023,Kyunghee University,1
+723,true,12/8/2023,7/29/2023,Kaunas University of Technology,1
+724,true,3/18/2023,2/23/2023,State University of New York at Buffalo,1
+725,true,7/9/2023,4/27/2023,Shawnee State University,1
+726,false,3/3/2023,11/22/2023,"Universidad Catolica ""Redemptoris Mater""",1
+727,true,6/23/2023,12/5/2023,Balochistan University of Information Technology & Management Sciences ,1
+728,true,6/11/2023,1/27/2023,Darul Naim College of Technology,1
+729,false,11/1/2023,6/17/2023,University of Turku,1
+730,true,10/6/2023,3/5/2023,Universidad Domingo Savio,1
+731,true,2/18/2023,12/7/2023,East Stroudsburg State University,1
+732,true,2/5/2023,4/9/2023,Grantham University,1
+733,true,11/12/2023,2/8/2023,Universität für Bodenkultur Wien,1
+734,true,7/26/2023,7/21/2023,Western State University College of Law,1
+735,true,12/28/2023,4/26/2023,Dammam Community College,1
+736,true,11/11/2023,1/24/2023,Universidad de Cienfuegos,1
+737,true,7/28/2023,7/29/2023,"University of Occupational and Environmental Health, Japan",1
+738,false,9/10/2023,3/17/2023,Universidad Central,1
+739,true,10/27/2023,8/9/2023,FTMS Global Academy,1
+740,false,11/10/2023,5/23/2023,Huston-Tillotson College,1
+741,false,1/30/2023,6/21/2023,Université Lumiére (Lyon II),1
+742,true,7/27/2023,10/31/2023,Universiti Tun Abdul Razak,1
+743,false,11/11/2023,3/19/2023,Regis University,1
+744,true,4/27/2023,6/4/2023,Odessa National Maritime Academy,1
+745,true,8/11/2023,12/30/2023,University of Peradeniya,1
+746,false,7/17/2023,4/27/2023,Kaunas University of Technology,1
+747,true,9/11/2023,3/29/2023,"Universidad Nacional de La Libertad, Trujillo",1
+748,true,6/2/2023,10/20/2023,Academy of Public Administration,1
+749,true,9/3/2023,9/15/2023,"Institute of Teachers Education, Batu Lintang",1
+750,false,2/22/2023,12/24/2023,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,1
+751,true,8/11/2023,3/3/2023,Ross University Caribbean School of Veterinary Medicine,1
+752,true,6/11/2023,3/26/2023,Inönü University,1
+753,true,2/12/2023,6/3/2023,Kirchliche Hochschule Bethel,1
+754,true,2/23/2023,11/4/2023,Dalanj University,1
+755,false,8/28/2023,5/19/2023,Inönü University,1
+756,true,9/2/2023,4/8/2023,Augustana University College,1
+757,false,9/24/2023,10/9/2023,Imam Khomeini International University,1
+758,false,9/16/2023,3/25/2023,Eastern Conservatory of Music,1
+759,false,10/12/2023,4/15/2023,Sichuan Normal University,1
+760,false,6/28/2023,2/17/2023,Prague Institute of Chemical Technology,1
+761,false,2/18/2023,4/8/2023,Aria Institute of Higher Education,1
+762,false,12/10/2023,8/6/2023,Marlboro College,1
+763,true,8/27/2023,11/21/2023,Dayalbagh Educational Institute,1
+764,true,2/17/2023,5/21/2023,Kohat University of Science and Technology  (KUST),1
+765,true,2/11/2023,12/5/2023,Universidade de Caxias do Sul,1
+766,false,10/18/2023,10/16/2023,Saitama Medical School,1
+767,true,4/14/2023,9/13/2023,Greenville College,1
+768,false,10/28/2023,11/21/2023,Rabindra Bharati University,1
+769,true,2/20/2023,5/9/2023,Lucerne University of Applied Sciences and Arts ,1
+770,true,11/14/2023,2/13/2023,Hertie School of Governance,1
+771,false,11/5/2023,9/23/2023,"Federal Urdu University of Arts,Science and Technology",1
+772,false,4/29/2023,7/22/2023,Les Roches International School of Hotel Management,1
+773,true,6/29/2023,11/5/2023,University of Venice,1
+774,false,10/27/2023,12/28/2023,State University of New York College of Technology at Alfred,1
+775,true,8/15/2023,3/22/2023,Grace Bible College,1
+776,false,4/29/2023,11/26/2023,University of Western Sydney,1
+777,true,8/8/2023,6/7/2023,Southern University - New Orleans,1
+778,false,6/25/2023,2/17/2023,Alsadrain University,1
+779,false,10/16/2023,10/12/2023,Baku State University,1
+780,true,6/11/2023,11/12/2023,Providence University,1
+781,true,12/27/2023,3/15/2023,Champlain College,1
+782,false,4/8/2023,11/26/2023,Texas A&M University - Commerce,1
+783,false,12/17/2023,10/1/2023,Government College University Lahore,1
+784,true,8/9/2023,10/27/2023,Vikrama Simhapuri University,1
+785,true,10/24/2023,3/25/2023,St. Petersburg State Medical Academy,1
+786,false,1/14/2024,11/23/2023,Al Yarmouk University College,1
+787,true,10/22/2023,9/27/2023,Osaka Sangyo University,1
+788,true,1/29/2023,8/21/2023,Volyn National University Lesja Ukrainka,1
+789,false,2/26/2023,12/5/2023,Al Mansour University College,1
+790,false,10/29/2023,3/30/2023,Assumption University of Thailand,1
+791,true,5/19/2023,2/24/2023,Kyushu University,1
+792,false,5/18/2023,7/18/2023,Royal University of Fine Arts,1
+793,true,7/4/2023,3/9/2023,Centro Universitário Monte Serrat,1
+794,true,9/25/2023,6/22/2023,Kermanshah University of Medical Sciences,1
+795,true,4/7/2023,10/7/2023,California University of Pennsylvania,1
+796,false,6/24/2023,1/12/2024,Southern California Institute of Architecture,1
+797,true,2/14/2023,12/10/2023,Wayamba University of Sri Lanka ,1
+798,true,7/24/2023,10/7/2023,Delft University of Technology,1
+799,true,12/17/2023,7/4/2023,Siberian State Medical University,1
+800,false,3/3/2023,6/15/2023,Ibn Sina University,1
+801,true,7/17/2023,8/21/2023,Kilis 7 Aralık University,1
+802,false,4/7/2023,2/5/2023,Walter Sisulu University for Technology and Science,1
+803,false,4/24/2023,5/26/2023,Hochschule für Philosophie München,1
+804,true,1/3/2024,6/9/2023,Kigali Independent University,1
+805,true,9/26/2023,9/8/2023,Technical University of Gdansk,1
+806,false,5/22/2023,7/21/2023,Wheelock College,1
+807,true,1/7/2024,12/16/2023,Virginia Military Institute,1
+808,false,11/19/2023,2/8/2023,Ecole Supérieure de Commerce de Brest,1
+809,false,1/24/2023,10/3/2023,Universidad de Sonsonate,1
+810,false,2/14/2023,1/7/2024,Sapporo Gakuin University,1
+811,true,5/30/2023,1/21/2023,"National Institute of Technology, Rourkela",1
+812,true,9/15/2023,4/10/2023,European Open University,1
+813,false,9/30/2023,6/9/2023,University for Humanistics (UH),1
+814,true,9/2/2023,6/25/2023,Universidad Católica de La Plata,1
+815,true,1/23/2023,10/2/2023,Yazd University,1
+816,true,9/9/2023,5/3/2023,Greenwich University,1
+817,false,3/29/2023,1/27/2023,Far Eastern State Technical Fisheries University,1
+818,true,9/5/2023,12/15/2023,Xi'an International Studies University,1
+819,false,2/11/2023,12/14/2023,University of Toledo,1
+820,true,11/28/2023,10/19/2023,Finnmark University College,1
+821,true,2/14/2023,9/7/2023,Universidad de Guanajuato,1
+822,false,8/3/2023,11/14/2023,Centro de Estudios Universitarios Monterrey,1
+823,false,11/11/2023,11/11/2023,Morrison College,1
+824,true,5/30/2023,5/23/2023,Ohio State University - Newark,1
+825,true,1/9/2024,9/20/2023,Zhanjiang Ocean University,1
+826,true,4/21/2023,10/23/2023,Fachhochschule St. Gallen,1
+827,true,5/15/2023,1/24/2023,Institute of Public Administration,1
+828,false,8/13/2023,1/25/2023,Allahabad University,1
+829,false,3/19/2023,12/19/2023,University of Macedonia,1
+830,true,5/24/2023,9/10/2023,Institut Supérieur Agricole de Beauvais,1
+831,false,8/18/2023,8/7/2023,"Islamic Azad University, Ahar",1
+832,true,10/10/2023,12/15/2023,St. John's & St. Mary's Institute of Technology,1
+833,false,5/27/2023,2/9/2023,Voronezh State University,1
+834,true,7/20/2023,9/29/2023,University of Cagliari,1
+835,false,5/25/2023,3/26/2023,Universitas Katolik Widya Karya,1
+836,false,12/22/2023,4/25/2023,University of Connecticut at Avery Point,1
+837,true,1/31/2023,8/28/2023,University of Human Development (Kurdistan Region),1
+838,true,4/12/2023,2/21/2023,Université Joseph Fourier (Grenoble I),1
+839,false,4/11/2023,6/30/2023,Vilnius Academy of Arts,1
+840,true,11/5/2023,7/5/2023,Rusangu University,1
+841,true,7/8/2023,7/14/2023,Pandit Ravi Shankar Shukla University,1
+842,true,10/24/2023,5/30/2023,St. Petersburg State Mining Institute (Technical University),1
+843,false,9/24/2023,11/17/2023,Universidad Autónoma de Yucatán,1
+844,true,8/27/2023,8/17/2023,Birsa Agricultural University,1
+845,false,12/17/2023,1/24/2023,Abfi Institute Perbanas Jakarta,1
+846,true,3/8/2023,8/7/2023,Universidad Tecnológica de Panamá,1
+847,true,6/4/2023,2/18/2023,Catholic University in Zimbabwe,1
+848,false,9/10/2023,2/12/2023,University of South Alabama,1
+849,false,8/7/2023,11/25/2023,University of Ballarat,1
+850,true,2/10/2023,9/11/2023,Yasuj University of Medical Sciences,1
+851,true,7/27/2023,2/20/2023,ITT Technical Institute Maitland,1
+852,true,1/22/2023,5/11/2023,University of Dammam,1
+853,false,5/11/2023,12/6/2023,Iceland Academy of the Arts,1
+854,true,12/20/2023,8/29/2023,Universidad Técnica Latinoamericana,1
+855,false,5/18/2023,7/14/2023,Mankato State University,1
+856,true,10/4/2023,9/14/2023,Universidad Norbert Wiener,1
+857,true,9/14/2023,10/31/2023,Western Delta University,1
+858,true,1/23/2023,7/23/2023,Universidad de La Sabana,1
+859,true,10/16/2023,10/21/2023,Karolinska Institute Stockholm,1
+860,false,7/17/2023,12/22/2023,Higher Institute of Business Administration,1
+861,true,11/18/2023,3/26/2023,Henan Agriculture University,1
+862,true,7/5/2023,9/9/2023,Spiru Haret University,1
+863,false,2/3/2023,11/28/2023,Osaka University of Education,1
+864,false,3/9/2023,5/27/2023,Foundation University,1
+865,true,5/13/2023,8/17/2023,Gombe State University,1
+866,false,5/21/2023,3/21/2023,College of St. Scholastica,1
+867,false,3/29/2023,1/31/2023,Universidade Estadual Sudoeste da Bahia,1
+868,true,8/14/2023,10/30/2023,Nakamura Gakuen University,1
+869,true,9/20/2023,5/23/2023,New York Institute of Technology,1
+870,false,6/6/2023,8/13/2023,Vyatka State Pedagogical University,1
+871,true,8/3/2023,8/15/2023,Hebei Normal University,1
+872,true,8/23/2023,3/4/2023,Abasyn University Peshawar,1
+873,false,10/8/2023,10/18/2023,University of Tulsa,1
+874,true,11/20/2023,2/25/2023,Centro de Enseñanza Técnica Industrial,1
+875,true,12/8/2023,4/1/2023,Heisei International University,1
+876,true,8/22/2023,10/27/2023,Cogswell Polytechnical College,1
+877,false,4/11/2023,4/23/2023,Piedmont College,1
+878,true,9/27/2023,4/21/2023,Centro Universitario Villanueva,1
+879,false,10/30/2023,10/5/2023,Benguet State University,1
+880,false,6/19/2023,12/16/2023,Shippensburg University of Pennsylvania,1
+881,false,8/7/2023,11/5/2023,Universidad Nacional de la Patagonia Austral,1
+882,true,7/20/2023,12/3/2023,Universidad de Medellín,1
+883,false,3/2/2023,1/9/2024,St. Clair College,1
+884,true,6/18/2023,10/12/2023,Chonnam National University,1
+885,false,11/12/2023,8/18/2023,Universidad de León,1
+886,false,10/17/2023,7/19/2023,Texas A&M International University,1
+887,true,3/8/2023,2/9/2023,Ecole des Hautes Etudes Industrielles de Lille,1
+888,true,1/22/2023,12/13/2023,Escuela de Ingeniería de Antioquia,1
+889,true,3/18/2023,11/15/2023,American World University,1
+890,false,6/7/2023,7/5/2023,Azerbaijan State Economic University,1
+891,true,3/18/2023,7/21/2023,Universidad La Gran Colombia,1
+892,false,5/30/2023,12/22/2023,Universidad Nacional de San Agustin,1
+893,false,2/28/2023,8/24/2023,American University of Afghanistan,1
+894,true,5/30/2023,3/21/2023,Xinjiang Normal University,1
+895,false,6/24/2023,6/24/2023,"University of Moncton, Edmundston",1
+896,true,4/5/2023,8/13/2023,Cyprus University of Technology,1
+897,true,5/9/2023,8/14/2023,Kyoto University of Education,1
+898,false,4/19/2023,9/28/2023,Kanagawa Institute of Technology,1
+899,true,4/13/2023,2/2/2023,Leyte State University ,1
+900,true,1/2/2024,3/24/2023,Saint Mary's University,1
+901,false,9/24/2023,6/11/2023,Ben-Gurion University of the Negev,1
+902,false,7/3/2023,2/15/2023,Ontario College of Art and Design,1
+903,false,3/13/2023,10/12/2023,Kafr El-Sheikh University,1
+904,true,8/7/2023,1/5/2024,Bishkek Humanities University,1
+905,false,9/5/2023,1/22/2023,"Washington State University, Spokane",1
+906,false,6/20/2023,5/4/2023,International College of Tourism and Hotel Management,1
+907,true,4/5/2023,4/17/2023,Universidad Cientifica Latinoamericana de Hidalgo,1
+908,false,1/2/2024,6/6/2023,London Institute of Management and Technology,1
+909,false,2/2/2023,5/19/2023,Universitas Nasional Jakarta,1
+910,false,9/9/2023,2/24/2023,University of Texas at El Paso,1
+911,false,11/30/2023,6/15/2023,Shinshu University,1
+912,true,2/17/2023,11/11/2023,Universidad de Oriente,1
+913,true,7/14/2023,7/10/2023,Rivier College,1
+914,true,4/23/2023,11/9/2023,Aga Khan University,1
+915,true,3/7/2023,2/26/2023,International Theravada Buddhist Missionary University,1
+916,false,5/14/2023,1/23/2023,Turkish Naval Academy,1
+917,false,12/8/2023,3/1/2023,"Washington State University, Vancouver",1
+918,true,6/14/2023,12/27/2023,Technological University of Podillya,1
+919,true,3/17/2023,10/21/2023,Tamil Nadu Dr. Ambedkar Law University,1
+920,true,1/24/2023,11/15/2023,Pontifícia Universidade Católica do Rio Grande do Sul,1
+921,true,3/10/2023,7/29/2023,Universitas 17 Agustus 1945 Cirebon,1
+922,true,1/2/2024,2/13/2023,National Aerospace University Kharkov Aviation Institute,1
+923,true,12/11/2023,9/1/2023,Philippine Women's University,1
+924,true,10/3/2023,6/29/2023,Ohtani Women's University,1
+925,false,4/21/2023,11/6/2023,"Islamic Azad University, Garmsar",1
+926,true,8/12/2023,6/30/2023,Maria Grzegorzewska College for Special Education,1
+927,false,9/1/2023,10/5/2023,Universidad Piloto de Colombia,1
+928,false,2/26/2023,9/11/2023,Charter Oak State College,1
+929,true,12/2/2023,7/19/2023,Bundelkhand University,1
+930,true,7/20/2023,7/30/2023,Debre Birhan University,1
+931,false,10/5/2023,5/9/2023,York College of Pennsylvania,1
+932,true,7/3/2023,6/4/2023,Iran University of Science and Technology Tehran,1
+933,true,10/16/2023,10/21/2023,Wilberforce University,1
+934,true,5/5/2023,8/26/2023,Academy of Arts,1
+935,true,12/20/2023,5/31/2023,Chinhoyi University of Technology,1
+936,false,4/30/2023,4/30/2023,Eberhard-Karls-Universität Tübingen,1
+937,false,6/28/2023,8/25/2023,"Fachhochschule Rosenheim, Hochschule für Technik und Wirtschaft",1
+938,false,10/5/2023,4/18/2023,Guangdong Polytechnic Normal University,1
+939,false,5/25/2023,5/26/2023,United States International University,1
+940,false,8/27/2023,9/24/2023,North Carolina Central University,1
+941,true,9/25/2023,6/5/2023,Marquette University,1
+942,false,4/16/2023,12/1/2023,University of Eastern Philippines,1
+943,true,12/7/2023,9/12/2023,Universidad del Norte,1
+944,false,5/10/2023,5/17/2023,Pontificio Ateneo Antonianum,1
+945,true,9/21/2023,5/27/2023,Sogang University,1
+946,true,12/29/2023,9/3/2023,University of the South Pacific Centre,1
+947,true,7/20/2023,10/14/2023,Uttarakhand Technical University,1
+948,true,8/3/2023,4/3/2023,Texas Woman's University,1
+949,true,11/6/2023,1/7/2024,Université Jean Monnet,1
+950,true,8/28/2023,10/5/2023,Higher Institute of Business Administration,1
+951,false,9/22/2023,4/3/2023,Irkutsk State Technical University,1
+952,false,5/21/2023,7/25/2023,University of Namibia,1
+953,false,8/27/2023,11/21/2023,"Davenport College of Business, Grand Rapids",1
+954,true,4/28/2023,1/21/2023,John Brown University,1
+955,true,1/7/2024,8/12/2023,Ecole Supérieure de Commerce de Dijon,1
+956,false,7/25/2023,2/25/2023,Dalanj University,1
+957,true,7/8/2023,3/13/2023,"Universidad Internacional SEK, Quito",1
+958,true,12/9/2023,6/6/2023,Afe Babalola University,1
+959,false,8/31/2023,3/1/2023,Chaopraya University ,1
+960,false,10/9/2023,5/31/2023,Dongbei University of Finance And Economics,1
+961,false,8/26/2023,9/19/2023,Universidad del Cine - Buenos Aires,1
+962,false,5/29/2023,4/12/2023,Christopher Newport University,1
+963,false,10/24/2023,10/19/2023,Aleksander Zelwerowicz State Theatre Academy,1
+964,false,11/17/2023,6/28/2023,Universidade Federal de São Carlos,1
+965,true,10/5/2023,12/22/2023,Hashemite University,1
+966,true,9/6/2023,1/3/2024,Chongju National University of Education,1
+967,false,4/4/2023,12/9/2023,Edith Cowan University,1
+968,true,7/15/2023,5/23/2023,Ahmadu Bello University,1
+969,true,3/3/2023,12/5/2023,Bilecik University,1
+970,true,8/19/2023,1/30/2023,Zambian Open University,1
+971,true,10/27/2023,12/1/2023,Université Catholique de Louvain,1
+972,false,8/19/2023,12/4/2023,Purdue University,1
+973,true,8/8/2023,1/14/2024,"Birla Institute of Technology, Ranchi",1
+974,true,7/19/2023,7/19/2023,Yangzhou University,1
+975,false,10/3/2023,12/14/2023,Pontifícia Universidade Católica do Rio de Janeiro,1
+976,false,7/12/2023,4/6/2023,Université Val-de-Marne (Paris XII),1
+977,true,12/23/2023,1/14/2024,Universidad Latina de Panamá,1
+978,false,9/3/2023,7/2/2023,Tay Nguyen University,1
+979,false,8/4/2023,4/24/2023,Central Academy of  Fine Art,1
+980,false,8/31/2023,1/5/2024,Universitat Oberta de Catalunya,1
+981,false,10/21/2023,1/1/2024,State University of New York at Stony Brook,1
+982,true,7/5/2023,7/19/2023,University of Warsaw,1
+983,false,1/24/2023,6/13/2023,Moscow State University of Technology (Stankin),1
+984,false,8/12/2023,6/6/2023,Universidad Nacional Evangélica,1
+985,true,7/28/2023,8/24/2023,The University of Nottingham Ningbo China,1
+986,false,11/17/2023,6/6/2023,Yeshiva University,1
+987,true,10/6/2023,9/6/2023,Baskent University,1
+988,false,9/29/2023,3/29/2023,Ivanovo State Textile Academy,1
+989,true,9/11/2023,12/10/2023,Yukon College,1
+990,false,3/7/2023,9/15/2023,Universidad Católica de Honduras,1
+991,false,9/3/2023,8/6/2023,Maharaja Sayajirao University of Baroda,1
+992,false,10/29/2023,11/13/2023,Cambodian Mekong University,1
+993,false,3/20/2023,6/5/2023,Trinity College Connecticut,1
+994,true,12/29/2023,9/5/2023,Zhongnan University of Technology,1
+995,true,3/10/2023,10/29/2023,Botswana Accountancy College,1
+996,false,8/11/2023,7/21/2023,Western Connecticut State University,1
+997,true,12/23/2023,7/27/2023,Gaziosmanpasa University,1
+998,false,10/26/2023,9/2/2023,AISECT University,1
+999,false,5/3/2023,8/28/2023,Chosun University,1
+1000,true,2/22/2023,1/8/2024,Primier International University Perak,1
