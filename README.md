@@ -26,6 +26,8 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   6. [Ipython](https://ipython.org/)
   7. [Werkzeug](https://werkzeug.palletsprojects.com/en/3.0.x/)
   8. [Mockaroo](https://www.mockaroo.com/)
+  9. [RobotFramework](https://robotframework.org/)
+  
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 
 
