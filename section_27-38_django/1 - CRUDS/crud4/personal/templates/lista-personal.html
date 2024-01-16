@@ -1,0 +1,75 @@
+{% extends 'blank.html' %}
+{% load static %}
+{%block titulo%} Lista Personas {%endblock titulo%}
+
+{%block content%}
+
+<div class="card">
+    <div class="card-header">
+        <a name="btn_nuevo" id="btnnuevo" class="btn btn-primary" href="{% url 'personal_app:crear' %}" role="">Nuevo
+            Registro</a>
+    </div>
+
+    <div class="card-body">
+        <h4 class="card-title">Persona</h4>
+        <table class="table data">
+            <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellido Paterno</th>
+                <th>Apellido Materno</th>
+                <th>Area</th>
+                <th>Estudios</th>
+                <th>Carrera</th>
+                <th>Estado</th>
+                <th>Fecha Modificación</th>
+                <th>Foto</th>
+                <th>Acciones</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for persona in data%}
+            {% if persona.estado == True%}
+            <tr>
+                <td>{{persona.id}}</td>
+                <td>{{persona.nombre}}</td>
+                <td>{{persona.apellido_paterno}}</td>
+                <td>{{persona.apellido_materno}}</td>
+                <td>{{persona.area}}</td>
+                <td>{{persona.estudios}}</td>
+                <td>{{persona.carrera}}</td>
+                <td>{{persona.estado}}</td>
+                <td>{{persona.fecha_modificacion | date:"d/m/y"}}</td>
+                {% if persona.foto %}
+                <td>
+                    <img src="{{persona.foto.url}}" height="60"/>
+                </td>
+                {% else %}
+                <td>N/A</td>
+                {% endif %}
+                <td>
+                    <a name="btn_editar" id="btneditar" class="btn btn-info"
+                       href="{% url 'personal_app:editar' persona.id%}" role="button">Editar</a>
+                    <a name="btn_eliminar" id="btneliminar" class="btn btn-danger"
+                       href="{% url 'personal_app:eliminar' persona.id%}" role="button">Eliminar</a>
+                </td>
+            </tr>
+            {% endif%}
+            {% endfor%}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+{%endblock content%}
+
+{% block Datatables %}
+
+<script>
+    $(document).ready(function () {
+        $('.data').DataTable();
+    });
+</script>
+
+{% endblock Datatables %}

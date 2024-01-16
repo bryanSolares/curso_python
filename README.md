@@ -21,6 +21,10 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   1. [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/)
   2. [Django](https://www.djangoproject.com/)
   3. [Pillow](https://pillow.readthedocs.io/en/stable/)
+  4. [Django Extensions](https://django-extensions.readthedocs.io/en/latest/)
+  5. [Django Toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
+  6. [Ipython](https://ipython.org/)
+  7. [Werkzeug](https://werkzeug.palletsprojects.com/en/3.0.x/)
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 
 
@@ -71,13 +75,13 @@ django-admin startproject <project name>
 2. El resultado obtenido con la estructura por defecto:
 ````
 <project name>
-    manage.py
-        <project name>
-            __init__.py
-            asgi.py
-            settings.py
-            urls.py
-            wsgi.py
+|--- manage.py
+|--- <project name>
+|    |--- __init__.py
+|    |--- asgi.py
+|    |--- settings.py
+|    |--- urls.py
+|    |--- wsgi.py
 ````
 3. Para ejecutar el servidor del proyecto sería:
 ````
@@ -96,14 +100,14 @@ python manage.py startapp <app_name>
 6. En la estructura de carpeta de un nuevo módulo o app se incluyen nuevos archivos
 ````
 <app name>
-   migrations
-      __init__.py
-   __init__.py
-   admin.py
-   apps.py
-   models.py
-   tests.py
-   views.py
+|   |--- migrations
+|   |--- __init__.py
+|--- __init__.py
+|--- admin.py
+|--- apps.py
+|--- models.py
+|--- tests.py
+|--- views.py
 ````
 7. El esquema utilizado por Djando es:
    * Modelo
@@ -132,6 +136,54 @@ python manage.py makemigrations
 ````
 python manage.py createsuperuser
 ````
+11. Para hacer una migración o copia de librarías que se están utilizando en un ENV1 a un ENV2 utilizar:
+````
+pip freeze > requirements.txt
+````
+12. Cuando se tiene un proyecto con un archivo **requirements.txt** se utiliza el siguiente comando para instalar 
+todas las librerías involucradas (el flag -r es para instalación recursiva):
+````
+pip install -r requirements.txt
+````
+## ORM
+Traductor e intermediario entre base de datos y aplicación. Integra base de datos con la aplicación simplificando
+la forma de escribir código sin directamente escribir consultas SQL.  
+1. En videos **311** no termina de aclarar y no se entiende la idea de lo que es Shell Plus o Ipython. Solamente considerar los
+siguientes comandos:
+````
+python manage.py shell_plus --print-sql
+````
+2. Para poder realizar una migración de data desde la funcionalidad de python hacer lo siguiente:
+````
+# 1. Crear la ubicación donde estará el archivo SQL
+# 2. Generar el archivo de migración
+python manage.py makemigrations <app_name> --empty
+# 3. En archivo generado en las operaciones cargar el archivo SQL que se ejecutará (importante deberá ser un stream)
+from django.db import migrations
+import os
+from crud5.setting import BASE_DIR
+
+def make_migration():
+    return open(os.path.join(BASE_DIR, 'migrations/data.sql', 'r')).read()
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('clientes', '0001_initial'),
+    ]
+
+    operations = [
+        migrations.RunSQL(make_migration(),)
+    ]
+
+````
+3. Finalmente para ejecutar la migración del SQL utilizar:
+````
+python manage.py sqlmigrate <app_name> <number of file>
+python manage.py migrate
+````
+
 
 ## Funcionalidad de archivos
 1. El archivo **urls.py** contendrá todo el listado de path disponibles para la página o proyecto
