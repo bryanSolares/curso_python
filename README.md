@@ -29,6 +29,7 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   9. [RobotFramework](https://robotframework.org/)
   
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
+* Profundizar en aprendizaje de expresiones regulares y ejercicios
 
 
 # Anotaciones Importantes
@@ -210,6 +211,71 @@ python manage.py migrate
         return HttpResponse(f"Hola Mundo con parámetros {variable} {variable})
 ````
 
+# [Expresiones Regulares](https://regexr.com/)
+## Literal:
+abc
+
+## Pattern matching:
+.       - Any Character Except New Line  
+\d      - Digit (0-9)  
+\D      - Not a Digit (0-9)  
+\w      - Word Character (a-z, A-Z, 0-9, _)  
+\W      - Not a Word Character excluding _  
+\s      - Whitespace (space, tab, newline)  
+\S      - Not Whitespace (space, tab, newline)  
+\t      - Tab  
+\n      - New line  
+
+## Grouping:
+[]      - Matches Characters in brackets (ranges with -)  
+[^ ]    - Matches Characters NOT in brackets  
+|       - Or  
+( )     - Group  
+
+## Quantifiers:
+. *       - 0 or More  
+. +       - 1 or More  
+?       - 0 or One  
+{3}     - Exact Number  
+{3,4}   - Range of Numbers (Minimum, Maximum)  
+{3,}   	- Range of Numbers (Minimum)  
+
+## Limits:
+^       - Beginning of a String  
+$       - End of a String  
+\b      - Word Boundary  
+\B      - Not a Word Boundary  
+
+## Replace:
+$0		- Gets all the expression  
+$1		- Gets grupo 1 content  
+
+## Ejemplos
+````
+^\d{4}-\d{4}-\d{4}                              ---> 1234-1234-1234
+^\d{4}\s\d{4}\s\d{4}                            ---> 1234 1234 1234
+\d{4,6}\s\d{4}\s\d{4,6}                         ---> 123456 123 123456
+
+M\w+                                            ---> Martínez - Mendoza
+http[s]?://\w+\.\w+\.\w+(\?\w+=\w+)             ---> https:///www.google.com | http://www.pagina.com?search=word
+
+^\w+@\w+\.\w+(\.\w+)?                           ---> email@email.com
+^[a-zA-Z0-9\.\-\_]+@\w+\.\w+(\.\w+)?            ---> algo-2@mail.com | algo.2@mail.com.gt
+^[a-zA-Z0-9\.\w\-]+@\w+\.\w+(\.\w+)?            ---> algo_3.2@mail.com
+
+https://git\w+\.\w+/\w+/\w+-win/\w+             ---> https://github.com/docker/for-win/issues
+[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-z]+      
+\[\d{2}:\d{2}:\d{2}\.\d{3}\]                    ---> 09:00:10.010
+\[PowerShell\s+\]                               ---> [PowerShell      ]
+\[\d{2}:\d{2}:\d{2}\.\d{3}\]\[P\w+\s+\]         ---> [09:11:10.010][PowerShell      ]
+14[56]\s\d{3}\s\d{3}                            ---> 145 567 456 | 146 598 681
+(145|146|148)\s\d{3}\s\d{3}                     ---> 145 567 456 | 146 598 681 | 148 567 456
+14[^56]\s\d{3}\s\d{3}                           ---> 147 567 456 | 147 995 321 | 148 685 682
+
+(?<=Numero\sde\scuenta\s)(.*?(?=\s))            ---> Numero de cuenta EWD-32d52d-2/34
+````
+
+
 # Inconvenientes encontrados
 * En video **293** solamente está utiliza una etiqueta 'a' para salir de la sesión, sin embargo esto no fue funcional
 se tuvo que hacer un formulario dentro del botón para poder cerrar la sesión. Según información Logout solamente opera con
@@ -234,3 +300,4 @@ método POST, al utilizar 'a' genera un petición de tipo GET
 
         super().delete(using=using, keep_parents=keep_parents)
 ````
+* Sección 37 puede ser desconcertante si no se tiene conocimiento previo. (Comentario personal, no tomar sección si no se entiende el objetivo de la funcionalidad)
