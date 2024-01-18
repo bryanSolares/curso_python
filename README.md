@@ -187,7 +187,54 @@ class Migration(migrations.Migration):
 python manage.py sqlmigrate <app_name> <number of file>
 python manage.py migrate
 ````
+## Shell Plus
+1. Para iniciar Shell Plus se deberá estar en proyecto y ejecutar comando:
+````
+python manage.py shell_plus --print-sql
+````
+2. Se puede crear variables dentro de Shell Plus
+````
+data = <Modelo>.objects.all() # Hará una consulta para capturar todos los registros
+data                          # Imprimirá el resultado de la consulta
+````
+3. Para realizar una consulta con un límite de datos:
+````
+<Modelo>.objects.all()[:5]
+````
+4. Llamando columnas específicas de la tabla:
+````
+<Modelo>.objects.all().values("col1","col2","col3")[:5]
+````
+5. Haciendo filtrado de información
+````
+<Modelo>.objects.filter(<columna>=<'data'>).values("col1","col2","col3")[:5]
+````
+6. Si se quiere integrar funciones personalizadas en Shell Plus
+````
+# 1. Integrar dentro del modelo una nueva clase que herede de models.Manager
+# 2. Crear la función personalizada
+# 3. Como la clase está heredando de Manager podremos hacer las operaciones habituales del ORM
 
+from django.db import models
+
+class CustomerManager(models.Manager):
+    def get_all(self):
+        data = self.all()
+        return data
+        
+# 4. Posterior, en la clase del Model se deberá instanciar la CustomManager
+
+class Customer(models.Model):
+....
+....
+    CustomerManager()
+````
+7. Cuando se hacen cambios en las clases, estos no son inmediatos en Shell Plus. Para solucionar el problema, dentro de Shell Plus se deberá ejecutar:
+````
+%load_ext autoreload
+%autoreload 2
+````
+8. 
 
 ## Funcionalidad de archivos
 1. El archivo **urls.py** contendrá todo el listado de path disponibles para la página o proyecto
@@ -300,4 +347,5 @@ método POST, al utilizar 'a' genera un petición de tipo GET
 
         super().delete(using=using, keep_parents=keep_parents)
 ````
-* Sección 37 puede ser desconcertante si no se tiene conocimiento previo. (Comentario personal, no tomar sección si no se entiende el objetivo de la funcionalidad)
+* Sección 37 puede ser desconcertante si no se tiene conocimiento previo. (Comentario personal, no tomar sección si no se e:ntiende el objetivo de la funcionalidad)
+* Sección 40: Da una nueva vista para el uso de expresiones regulares sin embargo hubiera sin más útil una implementación con buscador.
