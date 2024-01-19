@@ -9,3 +9,5 @@ pyvenv.cfg
 
 # Archivos generados por entornos virtuales
 pip-selfcheck.json
+/Enviroments/development
+/section_27-38_django/development/
