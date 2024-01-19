@@ -18,7 +18,7 @@ Tomar en cuenta que al final el proceso deseado en un archivo, deberemos cerrar 
 
 
 
-archivo = open('archivo.txt',"a")
+archivo = open('archivo.txt', "a")
 archivo.write("\nNueva Línea")
 archivo.close()
 
