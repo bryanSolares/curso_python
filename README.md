@@ -27,6 +27,7 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   7. [Werkzeug](https://werkzeug.palletsprojects.com/en/3.0.x/)
   8. [Mockaroo](https://www.mockaroo.com/)
   9. [RobotFramework](https://robotframework.org/)
+  10. [Pygame](https://www.pygame.org/docs/)
   
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 * Profundizar en aprendizaje de expresiones regulares y ejercicios
@@ -234,7 +235,11 @@ class Customer(models.Model):
 %load_ext autoreload
 %autoreload 2
 ````
-8. 
+## Pygame
+1. Instalación de libraría
+````
+pip install pygame
+````
 
 ## Funcionalidad de archivos
 1. El archivo **urls.py** contendrá todo el listado de path disponibles para la página o proyecto
