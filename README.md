@@ -28,6 +28,7 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   8. [Mockaroo](https://www.mockaroo.com/)
   9. [RobotFramework](https://robotframework.org/)
   10. [Pygame](https://www.pygame.org/docs/)
+  11. [Pandas](https://pandas.pydata.org/)
   
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 * Profundizar en aprendizaje de expresiones regulares y ejercicios
@@ -235,7 +236,7 @@ class Customer(models.Model):
 %load_ext autoreload
 %autoreload 2
 ````
-## Pygame
+# Pygame
 1. Instalación de libraría
 ````
 pip install pygame
@@ -262,7 +263,6 @@ pip install pygame
     def update(request, variable, variable: int):
         return HttpResponse(f"Hola Mundo con parámetros {variable} {variable})
 ````
-
 # [Expresiones Regulares](https://regexr.com/)
 ## Literal:
 abc
@@ -326,6 +326,14 @@ https://git\w+\.\w+/\w+/\w+-win/\w+             ---> https://github.com/docker/f
 
 (?<=Numero\sde\scuenta\s)(.*?(?=\s))            ---> Numero de cuenta EWD-32d52d-2/34
 ````
+
+# Pandas (Análisis de Datos)
+1. [Documentación](https://pandas.pydata.org/)
+2. Instalación de librearías necesaria (pandas y librería para gráficos)
+````
+pip install pandas matplotlib
+````
+3. 
 
 
 # Inconvenientes encontrados
