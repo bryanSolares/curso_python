@@ -29,6 +29,7 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   9. [RobotFramework](https://robotframework.org/)
   10. [Pygame](https://www.pygame.org/docs/)
   11. [Pandas](https://pandas.pydata.org/)
+  12. [Cufflinks](https://github.com/santosjorge/cufflinks)
   
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 * Profundizar en aprendizaje de expresiones regulares y ejercicios
@@ -331,7 +332,7 @@ https://git\w+\.\w+/\w+/\w+-win/\w+             ---> https://github.com/docker/f
 1. [Documentación](https://pandas.pydata.org/)
 2. Instalación de librearías necesaria (pandas y librería para gráficos)
 ````
-pip install pandas matplotlib
+pip install pandas matplotlib cufllinks
 ````
 3. 
 
