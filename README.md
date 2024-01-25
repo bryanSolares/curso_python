@@ -30,6 +30,7 @@ with self.__init_connection() as connection, connection.cursor() as cursor:
   10. [Pygame](https://www.pygame.org/docs/)
   11. [Pandas](https://pandas.pydata.org/)
   12. [Cufflinks](https://github.com/santosjorge/cufflinks)
+  13. [Selenium](https://www.selenium.dev/)
   
 * Uso de plantilla para reutilizar código (uso de {% block name_block %}{% endblock name_block %})
 * Profundizar en aprendizaje de expresiones regulares y ejercicios
@@ -327,14 +328,25 @@ https://git\w+\.\w+/\w+/\w+-win/\w+             ---> https://github.com/docker/f
 
 (?<=Numero\sde\scuenta\s)(.*?(?=\s))            ---> Numero de cuenta EWD-32d52d-2/34
 ````
-
 # Pandas (Análisis de Datos)
 1. [Documentación](https://pandas.pydata.org/)
 2. Instalación de librearías necesaria (pandas y librería para gráficos)
 ````
 pip install pandas matplotlib cufllinks
 ````
-3. 
+# [Selenium Automatización](https://www.selenium.dev/)
+Con Selenium se busca automatización.
+1. Selenium opera con WebDriver
+2. Instalación de librería
+````
+pip install selenium
+````
+3. Instalación de WebDriver
+4. Herramientas o extensiones sugeridas
+* https://chromewebstore.google.com/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe
+* https://chromewebstore.google.com/detail/relative-xpath-helper/eanaofphbanknlngejejepmfomkjaiic
+5. 
+
 
 
 # Inconvenientes encontrados
